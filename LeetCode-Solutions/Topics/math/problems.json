@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:26:22.154Z",
+  "updatedAt": "2026-11-15T03:27:08.013Z",
   "problems": [
     {
       "frontendId": "168",
@@ -84,6 +84,26 @@
           "path": "LeetCode-Solutions/0258-add-digits/0258-add-digits.py",
           "sha": "c4469ea7822df065b8eb087fa5c0f3523f0de88b",
           "lastSyncedAt": "2026-11-15T03:23:33.302Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "292",
+      "title": "Nim Game",
+      "slug": "nim-game",
+      "problemName": "0292-nim-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
+      "folderPath": "LeetCode-Solutions/0292-nim-game/",
+      "readmePath": "LeetCode-Solutions/0292-nim-game/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0292-nim-game.py",
+          "path": "LeetCode-Solutions/0292-nim-game/0292-nim-game.py",
+          "sha": "926ec589733103a1d67d2caf54c2722ba04c3908",
+          "lastSyncedAt": "2026-11-15T03:27:08.013Z"
         }
       ]
     },
