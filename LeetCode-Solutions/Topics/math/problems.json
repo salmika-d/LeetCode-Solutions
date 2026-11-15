@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:23:10.068Z",
+  "updatedAt": "2026-11-15T03:23:19.892Z",
   "problems": [
+    {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "problemName": "0326-power-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+      "folderPath": "LeetCode-Solutions/0326-power-of-three/",
+      "readmePath": "LeetCode-Solutions/0326-power-of-three/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0326-power-of-three.py",
+          "path": "LeetCode-Solutions/0326-power-of-three/0326-power-of-three.py",
+          "sha": "b183a22d5e27783802e8fdb79142426187e3b38f",
+          "lastSyncedAt": "2026-11-15T03:23:19.892Z"
+        }
+      ]
+    },
     {
       "frontendId": "342",
       "title": "Power of Four",
