@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:26:22.154Z",
+  "updatedAt": "2026-11-15T03:28:27.927Z",
   "problems": [
     {
       "frontendId": "20",
@@ -364,6 +364,26 @@
           "path": "LeetCode-Solutions/2409-count-days-spent-together/2409-count-days-spent-together.py",
           "sha": "1d6cc17dd3c8b1ea346a0201ae4324a596fe9271",
           "lastSyncedAt": "2026-11-15T03:18:00.619Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3941",
+      "title": "Password Strength",
+      "slug": "password-strength",
+      "problemName": "3941-password-strength",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/password-strength/",
+      "folderPath": "LeetCode-Solutions/3941-password-strength/",
+      "readmePath": "LeetCode-Solutions/3941-password-strength/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3941-password-strength.py",
+          "path": "LeetCode-Solutions/3941-password-strength/3941-password-strength.py",
+          "sha": "2f9a0b85cac66ccfd9ac70a0022e4c4b4e34cedc",
+          "lastSyncedAt": "2026-11-15T03:28:27.927Z"
         }
       ]
     },
