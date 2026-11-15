@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:18:10.733Z",
+  "updatedAt": "2026-11-15T03:18:20.510Z",
   "problems": [
     {
       "frontendId": "1",
@@ -84,6 +84,26 @@
           "path": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py",
           "sha": "6c5d4a03e0ec2d482bb62a7fc55c26ba6d8aa591",
           "lastSyncedAt": "2026-11-15T03:17:20.962Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2089",
+      "title": "Find Target Indices After Sorting Array",
+      "slug": "find-target-indices-after-sorting-array",
+      "problemName": "2089-find-target-indices-after-sorting-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
+      "folderPath": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/",
+      "readmePath": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2089-find-target-indices-after-sorting-array.py",
+          "path": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
+          "sha": "abb52052cf8de9013894979db80ae3af58ee7a73",
+          "lastSyncedAt": "2026-11-15T03:18:20.510Z"
         }
       ]
     }
