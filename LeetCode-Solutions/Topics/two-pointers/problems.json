@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T03:29:01.348Z",
+  "updatedAt": "2026-11-15T03:29:14.824Z",
   "problems": [
+    {
+      "frontendId": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "problemName": "0088-merge-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
+      "folderPath": "LeetCode-Solutions/0088-merge-sorted-array/",
+      "readmePath": "LeetCode-Solutions/0088-merge-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0088-merge-sorted-array.py",
+          "path": "LeetCode-Solutions/0088-merge-sorted-array/0088-merge-sorted-array.py",
+          "sha": "5ba519f56a07d83cc0f31d7b137b6826026f3af7",
+          "lastSyncedAt": "2026-11-15T03:29:14.824Z"
+        }
+      ]
+    },
     {
       "frontendId": "125",
       "title": "Valid Palindrome",
