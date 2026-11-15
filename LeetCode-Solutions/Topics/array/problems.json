@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:18:28.941Z",
+  "updatedAt": "2026-11-15T03:18:40.539Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "575",
+      "title": "Distribute Candies",
+      "slug": "distribute-candies",
+      "problemName": "0575-distribute-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/distribute-candies/",
+      "folderPath": "LeetCode-Solutions/0575-distribute-candies/",
+      "readmePath": "LeetCode-Solutions/0575-distribute-candies/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0575-distribute-candies.py",
+          "path": "LeetCode-Solutions/0575-distribute-candies/0575-distribute-candies.py",
+          "sha": "38a596cce5afdcadcb9c0533cee9212238de503e",
+          "lastSyncedAt": "2026-11-15T03:18:40.539Z"
         }
       ]
     },
