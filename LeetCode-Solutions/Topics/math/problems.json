@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:18:00.619Z",
+  "updatedAt": "2026-11-15T03:19:08.860Z",
   "problems": [
     {
       "frontendId": "2409",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/2409-count-days-spent-together/2409-count-days-spent-together.py",
           "sha": "1d6cc17dd3c8b1ea346a0201ae4324a596fe9271",
           "lastSyncedAt": "2026-11-15T03:18:00.619Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "problemName": "3945-digit-frequency-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
+      "folderPath": "LeetCode-Solutions/3945-digit-frequency-score/",
+      "readmePath": "LeetCode-Solutions/3945-digit-frequency-score/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3945-digit-frequency-score.py",
+          "path": "LeetCode-Solutions/3945-digit-frequency-score/3945-digit-frequency-score.py",
+          "sha": "d345eb019758dc4b7817e050359a1afff527c28f",
+          "lastSyncedAt": "2026-11-15T03:19:08.860Z"
         }
       ]
     }
