@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T03:22:49.431Z",
+  "updatedAt": "2026-11-15T03:23:01.511Z",
   "problems": [
+    {
+      "frontendId": "345",
+      "title": "Reverse Vowels of a String",
+      "slug": "reverse-vowels-of-a-string",
+      "problemName": "0345-reverse-vowels-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
+      "folderPath": "LeetCode-Solutions/0345-reverse-vowels-of-a-string/",
+      "readmePath": "LeetCode-Solutions/0345-reverse-vowels-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0345-reverse-vowels-of-a-string.py",
+          "path": "LeetCode-Solutions/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.py",
+          "sha": "a9b2e6ec0fab0e47c96a466feaf6c1509369d335",
+          "lastSyncedAt": "2026-11-15T03:23:01.511Z"
+        }
+      ]
+    },
     {
       "frontendId": "349",
       "title": "Intersection of Two Arrays",
