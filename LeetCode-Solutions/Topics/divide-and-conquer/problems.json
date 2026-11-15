@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-15T03:51:17.007Z",
+  "updatedAt": "2026-11-15T03:51:26.828Z",
   "problems": [
     {
       "frontendId": "169",
@@ -43,7 +43,7 @@
           "filename": "0190-reverse-bits.py",
           "path": "LeetCode-Solutions/0190-reverse-bits/0190-reverse-bits.py",
           "sha": "6e7276d772783a2aa6fc353419bd2df49550ae63",
-          "lastSyncedAt": "2026-11-15T03:26:50.423Z"
+          "lastSyncedAt": "2026-11-15T03:51:26.828Z"
         }
       ]
     },
