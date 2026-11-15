@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:30:09.895Z",
+  "updatedAt": "2026-11-15T03:30:45.220Z",
   "problems": [
     {
       "frontendId": "20",
@@ -464,6 +464,26 @@
           "path": "LeetCode-Solutions/2409-count-days-spent-together/2409-count-days-spent-together.py",
           "sha": "1d6cc17dd3c8b1ea346a0201ae4324a596fe9271",
           "lastSyncedAt": "2026-11-15T03:18:00.619Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3110",
+      "title": "Score of a String",
+      "slug": "score-of-a-string",
+      "problemName": "3110-score-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
+      "folderPath": "LeetCode-Solutions/3110-score-of-a-string/",
+      "readmePath": "LeetCode-Solutions/3110-score-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3110-score-of-a-string.py",
+          "path": "LeetCode-Solutions/3110-score-of-a-string/3110-score-of-a-string.py",
+          "sha": "09bf5692e34b8fd48c78e5a01f5ac123195320dd",
+          "lastSyncedAt": "2026-11-15T03:30:45.220Z"
         }
       ]
     },
