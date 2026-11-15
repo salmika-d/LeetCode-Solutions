@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:27:08.013Z",
+  "updatedAt": "2026-11-15T03:28:50.736Z",
   "problems": [
     {
       "frontendId": "168",
@@ -144,6 +144,26 @@
           "path": "LeetCode-Solutions/0342-power-of-four/0342-power-of-four.py",
           "sha": "fe20afb960964981fa12e505c76ab60783cf94b7",
           "lastSyncedAt": "2026-11-15T03:23:10.068Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "LeetCode-Solutions/0412-fizz-buzz/",
+      "readmePath": "LeetCode-Solutions/0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0412-fizz-buzz.py",
+          "path": "LeetCode-Solutions/0412-fizz-buzz/0412-fizz-buzz.py",
+          "sha": "624af4e7a86d753a29fd948d157c482811859aef",
+          "lastSyncedAt": "2026-11-15T03:28:50.736Z"
         }
       ]
     },
