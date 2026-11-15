@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:46:48.533Z",
+  "updatedAt": "2026-11-15T03:46:52.746Z",
   "problems": [
     {
       "frontendId": "1",
@@ -703,7 +703,7 @@
           "filename": "4015-weighted-sum-of-a-tree.py",
           "path": "LeetCode-Solutions/4015-weighted-sum-of-a-tree/4015-weighted-sum-of-a-tree.py",
           "sha": "8170b0bbddb05f6e27c41d6331b8a96ae97a6f98",
-          "lastSyncedAt": "2026-11-15T03:35:31.380Z"
+          "lastSyncedAt": "2026-11-15T03:46:52.746Z"
         }
       ]
     }
