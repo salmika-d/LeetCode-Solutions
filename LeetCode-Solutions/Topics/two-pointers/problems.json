@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T03:22:36.102Z",
+  "updatedAt": "2026-11-15T03:22:49.431Z",
   "problems": [
+    {
+      "frontendId": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "problemName": "0349-intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
+      "folderPath": "LeetCode-Solutions/0349-intersection-of-two-arrays/",
+      "readmePath": "LeetCode-Solutions/0349-intersection-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0349-intersection-of-two-arrays.py",
+          "path": "LeetCode-Solutions/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
+          "sha": "d39ba8e8b8fbdbf7e8b8c96328fc34416c2f540e",
+          "lastSyncedAt": "2026-11-15T03:22:49.431Z"
+        }
+      ]
+    },
     {
       "frontendId": "350",
       "title": "Intersection of Two Arrays II",
