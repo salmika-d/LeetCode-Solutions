@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 85 | 80 | 5 | 0 |
+| 86 | 81 | 5 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 10 days | 72 |
+| 1 days | 10 days | 73 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-04 | 1 |
 | 2026-09-07 | 1 |
 | 2026-09-09 | 1 |
 | 2026-09-14 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-25 | 1 |
 | 2026-11-08 | 1 |
 | 2026-11-09 | 1 |
+| 2026-11-15 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 35 | 41% |
-| String | 29 | 34% |
+| String | 30 | 35% |
 | Math | 22 | 26% |
-| Hash Table | 21 | 25% |
-| Two Pointers | 15 | 18% |
+| Hash Table | 21 | 24% |
+| Two Pointers | 15 | 17% |
 | Bit Manipulation | 13 | 15% |
 | Sorting | 12 | 14% |
 | Dynamic Programming | 7 | 8% |
 | Binary Search | 6 | 7% |
-| Counting | 5 | 6% |
+| Simulation | 6 | 7% |
 
 ## Topics
 
@@ -82,10 +82,10 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 2 |
 | [Recursion](Topics/recursion/) | 4 |
-| [Simulation](Topics/simulation/) | 5 |
+| [Simulation](Topics/simulation/) | 6 |
 | [Sorting](Topics/sorting/) | 12 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 29 |
+| [String](Topics/string/) | 30 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
