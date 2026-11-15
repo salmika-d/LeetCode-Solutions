@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:18:59.644Z",
+  "updatedAt": "2026-11-15T03:19:16.369Z",
   "problems": [
     {
       "frontendId": "20",
@@ -64,6 +64,26 @@
           "path": "LeetCode-Solutions/0500-keyboard-row/0500-keyboard-row.py",
           "sha": "0c27a33b0922a98c9c1cb3885c077a83a46c2a07",
           "lastSyncedAt": "2026-11-15T03:18:59.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1614",
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "problemName": "1614-maximum-nesting-depth-of-the-parentheses",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "folderPath": "LeetCode-Solutions/1614-maximum-nesting-depth-of-the-parentheses/",
+      "readmePath": "LeetCode-Solutions/1614-maximum-nesting-depth-of-the-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1614-maximum-nesting-depth-of-the-parentheses.py",
+          "path": "LeetCode-Solutions/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.py",
+          "sha": "ae31d9aa4dff91a65fc3d492063383aa653163ef",
+          "lastSyncedAt": "2026-11-15T03:19:16.369Z"
         }
       ]
     },
