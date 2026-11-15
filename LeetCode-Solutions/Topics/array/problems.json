@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:30:37.648Z",
+  "updatedAt": "2026-11-15T03:30:51.071Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
           "sha": "53a18f274d85e79c132391fd8c24828eb8d6b788",
           "lastSyncedAt": "2026-11-15T03:30:37.648Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "35",
+      "title": "Search Insert Position",
+      "slug": "search-insert-position",
+      "problemName": "0035-search-insert-position",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
+      "folderPath": "LeetCode-Solutions/0035-search-insert-position/",
+      "readmePath": "LeetCode-Solutions/0035-search-insert-position/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0035-search-insert-position.py",
+          "path": "LeetCode-Solutions/0035-search-insert-position/0035-search-insert-position.py",
+          "sha": "cea1addbde6a185a41c89efe422338034ed04f52",
+          "lastSyncedAt": "2026-11-15T03:30:51.071Z"
         }
       ]
     },
