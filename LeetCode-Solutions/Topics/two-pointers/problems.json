@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T03:17:20.962Z",
+  "updatedAt": "2026-11-15T03:19:56.126Z",
   "problems": [
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "LeetCode-Solutions/0392-is-subsequence/",
+      "readmePath": "LeetCode-Solutions/0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0392-is-subsequence.py",
+          "path": "LeetCode-Solutions/0392-is-subsequence/0392-is-subsequence.py",
+          "sha": "15c96a73ceefbc2c2cb468b362eb87c4a08fc5d7",
+          "lastSyncedAt": "2026-11-15T03:19:56.126Z"
+        }
+      ]
+    },
     {
       "frontendId": "1385",
       "title": "Find the Distance Value Between Two Arrays",
