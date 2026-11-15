@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:34:08.914Z",
+  "updatedAt": "2026-11-15T03:34:15.793Z",
   "problems": [
     {
       "frontendId": "1",
@@ -583,7 +583,7 @@
           "filename": "2089-find-target-indices-after-sorting-array.py",
           "path": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
           "sha": "abb52052cf8de9013894979db80ae3af58ee7a73",
-          "lastSyncedAt": "2026-11-15T03:18:20.510Z"
+          "lastSyncedAt": "2026-11-15T03:34:15.793Z"
         }
       ]
     },
