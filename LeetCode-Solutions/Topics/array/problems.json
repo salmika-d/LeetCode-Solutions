@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:30:20.400Z",
+  "updatedAt": "2026-11-15T03:30:37.648Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/0001-two-sum/0001-two-sum.py",
           "sha": "7019b34d5d361283593e0e665069ed8ff322e625",
           "lastSyncedAt": "2026-11-15T03:17:10.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "problemName": "0026-remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "folderPath": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0026-remove-duplicates-from-sorted-array.py",
+          "path": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
+          "sha": "53a18f274d85e79c132391fd8c24828eb8d6b788",
+          "lastSyncedAt": "2026-11-15T03:30:37.648Z"
         }
       ]
     },
