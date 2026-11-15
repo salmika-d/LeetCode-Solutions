@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T03:18:40.539Z",
+  "updatedAt": "2026-11-15T03:18:59.644Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "500",
+      "title": "Keyboard Row",
+      "slug": "keyboard-row",
+      "problemName": "0500-keyboard-row",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
+      "folderPath": "LeetCode-Solutions/0500-keyboard-row/",
+      "readmePath": "LeetCode-Solutions/0500-keyboard-row/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0500-keyboard-row.py",
+          "path": "LeetCode-Solutions/0500-keyboard-row/0500-keyboard-row.py",
+          "sha": "0c27a33b0922a98c9c1cb3885c077a83a46c2a07",
+          "lastSyncedAt": "2026-11-15T03:18:59.644Z"
         }
       ]
     },
