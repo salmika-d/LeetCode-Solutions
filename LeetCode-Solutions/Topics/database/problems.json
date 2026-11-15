@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T03:24:52.552Z",
+  "updatedAt": "2026-11-15T03:25:51.956Z",
   "problems": [
+    {
+      "frontendId": "175",
+      "title": "Combine Two Tables",
+      "slug": "combine-two-tables",
+      "problemName": "0175-combine-two-tables",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/combine-two-tables/",
+      "folderPath": "LeetCode-Solutions/0175-combine-two-tables/",
+      "readmePath": "LeetCode-Solutions/0175-combine-two-tables/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0175-combine-two-tables.sql",
+          "path": "LeetCode-Solutions/0175-combine-two-tables/0175-combine-two-tables.sql",
+          "sha": "77ecb289f9c35e07bd31ab4617b09c8ff7da5e95",
+          "lastSyncedAt": "2026-11-15T03:25:51.956Z"
+        }
+      ]
+    },
     {
       "frontendId": "181",
       "title": "Employees Earning More Than Their Managers",
