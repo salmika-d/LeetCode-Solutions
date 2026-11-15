@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-15T03:45:30.507Z",
+  "updatedAt": "2026-11-15T03:47:01.317Z",
   "problems": [
     {
       "frontendId": "860",
@@ -43,7 +43,7 @@
           "filename": "4014-minimum-total-price-after-applying-discounts.py",
           "path": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/4014-minimum-total-price-after-applying-discounts.py",
           "sha": "ef7f2822088b26dab8e34e995289626271756ab5",
-          "lastSyncedAt": "2026-11-15T03:35:38.929Z"
+          "lastSyncedAt": "2026-11-15T03:47:01.317Z"
         }
       ]
     }
