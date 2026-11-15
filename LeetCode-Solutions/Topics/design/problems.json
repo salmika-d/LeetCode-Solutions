@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design",
+    "tagId": "25"
+  },
+  "updatedAt": "2026-11-15T03:24:17.359Z",
+  "problems": [
+    {
+      "frontendId": "225",
+      "title": "Implement Stack using Queues",
+      "slug": "implement-stack-using-queues",
+      "problemName": "0225-implement-stack-using-queues",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "folderPath": "LeetCode-Solutions/0225-implement-stack-using-queues/",
+      "readmePath": "LeetCode-Solutions/0225-implement-stack-using-queues/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0225-implement-stack-using-queues.py",
+          "path": "LeetCode-Solutions/0225-implement-stack-using-queues/0225-implement-stack-using-queues.py",
+          "sha": "a51b429ca77ee5a71bd68eff07e0ea646b2d8802",
+          "lastSyncedAt": "2026-11-15T03:24:17.359Z"
+        }
+      ]
+    }
+  ]
+}
