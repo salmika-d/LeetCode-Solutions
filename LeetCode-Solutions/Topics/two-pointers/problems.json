@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T03:23:25.950Z",
+  "updatedAt": "2026-11-15T03:26:58.311Z",
   "problems": [
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "LeetCode-Solutions/0283-move-zeroes/",
+      "readmePath": "LeetCode-Solutions/0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0283-move-zeroes.py",
+          "path": "LeetCode-Solutions/0283-move-zeroes/0283-move-zeroes.py",
+          "sha": "d544a2c75b5e5495f468a3a422b7d8c2a5ba2fb4",
+          "lastSyncedAt": "2026-11-15T03:26:58.311Z"
+        }
+      ]
+    },
     {
       "frontendId": "344",
       "title": "Reverse String",
