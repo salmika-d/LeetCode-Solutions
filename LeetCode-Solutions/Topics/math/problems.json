@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:19:26.335Z",
+  "updatedAt": "2026-11-15T03:19:34.268Z",
   "problems": [
+    {
+      "frontendId": "836",
+      "title": "Rectangle Overlap",
+      "slug": "rectangle-overlap",
+      "problemName": "0836-rectangle-overlap",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
+      "folderPath": "LeetCode-Solutions/0836-rectangle-overlap/",
+      "readmePath": "LeetCode-Solutions/0836-rectangle-overlap/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0836-rectangle-overlap.java",
+          "path": "LeetCode-Solutions/0836-rectangle-overlap/0836-rectangle-overlap.java",
+          "sha": "ad967a5126423b6092b27cbae905d85c05a0046e",
+          "lastSyncedAt": "2026-11-15T03:19:34.268Z"
+        }
+      ]
+    },
     {
       "frontendId": "2409",
       "title": "Count Days Spent Together",
