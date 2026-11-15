@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-15T03:22:03.293Z",
+  "updatedAt": "2026-11-15T03:22:36.102Z",
   "problems": [
     {
       "frontendId": "49",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "350",
+      "title": "Intersection of Two Arrays II",
+      "slug": "intersection-of-two-arrays-ii",
+      "problemName": "0350-intersection-of-two-arrays-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+      "folderPath": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/",
+      "readmePath": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0350-intersection-of-two-arrays-ii.py",
+          "path": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py",
+          "sha": "45b095ba233783c85e3e002762b98aa3dea0e3c4",
+          "lastSyncedAt": "2026-11-15T03:22:36.102Z"
         }
       ]
     },
