@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:17:37.294Z",
+  "updatedAt": "2026-11-15T03:18:10.733Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/0001-two-sum/0001-two-sum.py",
           "sha": "7019b34d5d361283593e0e665069ed8ff322e625",
           "lastSyncedAt": "2026-11-15T03:17:10.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "860",
+      "title": "Lemonade Change",
+      "slug": "lemonade-change",
+      "problemName": "0860-lemonade-change",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
+      "folderPath": "LeetCode-Solutions/0860-lemonade-change/",
+      "readmePath": "LeetCode-Solutions/0860-lemonade-change/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0860-lemonade-change.py",
+          "path": "LeetCode-Solutions/0860-lemonade-change/0860-lemonade-change.py",
+          "sha": "5a897c35da208e01cc217ae9f607b51f3c149bcb",
+          "lastSyncedAt": "2026-11-15T03:18:10.733Z"
         }
       ]
     },
