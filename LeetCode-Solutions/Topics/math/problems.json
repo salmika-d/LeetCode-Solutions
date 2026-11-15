@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:23:33.302Z",
+  "updatedAt": "2026-11-15T03:23:45.348Z",
   "problems": [
+    {
+      "frontendId": "231",
+      "title": "Power of Two",
+      "slug": "power-of-two",
+      "problemName": "0231-power-of-two",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
+      "folderPath": "LeetCode-Solutions/0231-power-of-two/",
+      "readmePath": "LeetCode-Solutions/0231-power-of-two/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0231-power-of-two.py",
+          "path": "LeetCode-Solutions/0231-power-of-two/0231-power-of-two.py",
+          "sha": "cf7e7ac6c0e178a5bc3890d9a1d8b708f5ddc611",
+          "lastSyncedAt": "2026-11-15T03:23:45.348Z"
+        }
+      ]
+    },
     {
       "frontendId": "258",
       "title": "Add Digits",
