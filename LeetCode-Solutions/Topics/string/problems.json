@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:28:43.928Z",
+  "updatedAt": "2026-11-15T03:28:50.736Z",
   "problems": [
     {
       "frontendId": "20",
@@ -284,6 +284,26 @@
           "path": "LeetCode-Solutions/0392-is-subsequence/0392-is-subsequence.py",
           "sha": "15c96a73ceefbc2c2cb468b362eb87c4a08fc5d7",
           "lastSyncedAt": "2026-11-15T03:19:56.126Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "LeetCode-Solutions/0412-fizz-buzz/",
+      "readmePath": "LeetCode-Solutions/0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0412-fizz-buzz.py",
+          "path": "LeetCode-Solutions/0412-fizz-buzz/0412-fizz-buzz.py",
+          "sha": "624af4e7a86d753a29fd948d157c482811859aef",
+          "lastSyncedAt": "2026-11-15T03:28:50.736Z"
         }
       ]
     },
