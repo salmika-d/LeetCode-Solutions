@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T03:19:56.126Z",
+  "updatedAt": "2026-11-15T03:23:53.055Z",
   "problems": [
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "LeetCode-Solutions/0338-counting-bits/",
+      "readmePath": "LeetCode-Solutions/0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0338-counting-bits.py",
+          "path": "LeetCode-Solutions/0338-counting-bits/0338-counting-bits.py",
+          "sha": "4aa8fe30732b21729c527cf1fb239f3e40466237",
+          "lastSyncedAt": "2026-11-15T03:23:53.055Z"
+        }
+      ]
+    },
     {
       "frontendId": "392",
       "title": "Is Subsequence",
