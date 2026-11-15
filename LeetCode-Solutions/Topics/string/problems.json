@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:53:10.873Z",
+  "updatedAt": "2026-11-15T03:53:36.322Z",
   "problems": [
     {
       "frontendId": "13",
@@ -534,8 +534,8 @@
       "problemName": "3110-score-of-a-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
-      "folderPath": "LeetCode-Solutions/3110-score-of-a-string/",
-      "readmePath": "LeetCode-Solutions/3110-score-of-a-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3110-score-of-a-string/",
+      "readmePath": "LeetCode-Solutions/Easy/3110-score-of-a-string/README.md",
       "solutions": [
         {
           "language": "Python",
@@ -543,7 +543,7 @@
           "filename": "3110-score-of-a-string.py",
           "path": "LeetCode-Solutions/3110-score-of-a-string/3110-score-of-a-string.py",
           "sha": "09bf5692e34b8fd48c78e5a01f5ac123195320dd",
-          "lastSyncedAt": "2026-11-15T03:30:45.220Z"
+          "lastSyncedAt": "2026-11-15T03:53:36.322Z"
         }
       ]
     },
