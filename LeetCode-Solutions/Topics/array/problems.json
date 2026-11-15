@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:20:15.869Z",
+  "updatedAt": "2026-11-15T03:20:26.847Z",
   "problems": [
     {
       "frontendId": "1",
@@ -224,6 +224,26 @@
           "path": "LeetCode-Solutions/3903-smallest-stable-index-i/3903-smallest-stable-index-i.py",
           "sha": "c16cb454eceebaa58fac13433cf275ec93573a5e",
           "lastSyncedAt": "2026-11-15T03:19:47.800Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4014",
+      "title": "Minimum Total Price After Applying Discounts",
+      "slug": "minimum-total-price-after-applying-discounts",
+      "problemName": "4014-minimum-total-price-after-applying-discounts",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-total-price-after-applying-discounts/",
+      "folderPath": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/",
+      "readmePath": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "4014-minimum-total-price-after-applying-discounts.py",
+          "path": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/4014-minimum-total-price-after-applying-discounts.py",
+          "sha": "ef7f2822088b26dab8e34e995289626271756ab5",
+          "lastSyncedAt": "2026-11-15T03:20:26.847Z"
         }
       ]
     },
