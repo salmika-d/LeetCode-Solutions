@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-15T03:21:08.505Z",
+  "updatedAt": "2026-11-15T03:23:10.068Z",
   "problems": [
     {
       "frontendId": "21",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
           "sha": "4567e1cce9f9ca2c2ff8b41bdd6ec60918b2f2da",
           "lastSyncedAt": "2026-11-15T03:21:08.505Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "LeetCode-Solutions/0342-power-of-four/",
+      "readmePath": "LeetCode-Solutions/0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0342-power-of-four.py",
+          "path": "LeetCode-Solutions/0342-power-of-four/0342-power-of-four.py",
+          "sha": "fe20afb960964981fa12e505c76ab60783cf94b7",
+          "lastSyncedAt": "2026-11-15T03:23:10.068Z"
         }
       ]
     }
