@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T03:21:39.017Z",
+  "updatedAt": "2026-11-15T03:22:03.293Z",
   "problems": [
+    {
+      "frontendId": "389",
+      "title": "Find the Difference",
+      "slug": "find-the-difference",
+      "problemName": "0389-find-the-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
+      "folderPath": "LeetCode-Solutions/0389-find-the-difference/",
+      "readmePath": "LeetCode-Solutions/0389-find-the-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0389-find-the-difference.py",
+          "path": "LeetCode-Solutions/0389-find-the-difference/0389-find-the-difference.py",
+          "sha": "fe705b4557229945476047e23edad8aa892650f9",
+          "lastSyncedAt": "2026-11-15T03:22:03.293Z"
+        }
+      ]
+    },
     {
       "frontendId": "461",
       "title": "Hamming Distance",
