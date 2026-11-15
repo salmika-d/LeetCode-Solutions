@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "breadth-first-search",
+    "name": "Breadth-First Search",
+    "tagId": "22"
+  },
+  "updatedAt": "2026-11-15T03:17:37.294Z",
+  "problems": [
+    {
+      "frontendId": "1267",
+      "title": "Count Servers that Communicate",
+      "slug": "count-servers-that-communicate",
+      "problemName": "1267-count-servers-that-communicate",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
+      "folderPath": "LeetCode-Solutions/1267-count-servers-that-communicate/",
+      "readmePath": "LeetCode-Solutions/1267-count-servers-that-communicate/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1267-count-servers-that-communicate.py",
+          "path": "LeetCode-Solutions/1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
+          "sha": "90e9183f3fa0122813028dcff72df98312a159b6",
+          "lastSyncedAt": "2026-11-15T03:17:37.294Z"
+        }
+      ]
+    }
+  ]
+}
