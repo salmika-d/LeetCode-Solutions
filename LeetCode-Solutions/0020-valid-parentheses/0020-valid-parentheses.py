@@ -1,0 +1,19 @@
+class Solution(object):
+    def isValid(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        stack =[]
+        if s.count('(') == s.count(')') and s.count('[') == s.count(']') and s.count('{') == s.count('{'):
+            for i in s:
+                if i in '([{':
+                    stack.append(i)
+                    
+                elif len(stack ) !=0 and (i == ')' and stack[len(stack)-1] =='(' or i == ']' and stack[len(stack)-1] =='[' or i == '}' and stack[len(stack)-1] == '{'):
+                    stack.pop()
+                else:
+                    return False
+            if len(stack)==0:
+                return True
+        return False 
