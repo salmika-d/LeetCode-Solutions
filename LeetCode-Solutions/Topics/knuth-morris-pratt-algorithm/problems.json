@@ -5,7 +5,7 @@
     "name": "Knuth–Morris–Pratt Algorithm",
     "tagId": "122018"
   },
-  "updatedAt": "2026-11-15T03:53:59.315Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "28",
@@ -21,9 +21,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
-          "path": "LeetCode-Solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "path": "LeetCode-Solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/Python/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "29f7a70cfe412933d9d5e9db3c902c6247ce3987",
-          "lastSyncedAt": "2026-11-15T03:53:59.315Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

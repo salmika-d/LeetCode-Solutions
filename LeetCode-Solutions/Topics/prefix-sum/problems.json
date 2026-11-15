@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-11-15T03:46:36.118Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "3903",
@@ -14,16 +14,16 @@
       "problemName": "3903-smallest-stable-index-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
-      "folderPath": "LeetCode-Solutions/3903-smallest-stable-index-i/",
-      "readmePath": "LeetCode-Solutions/3903-smallest-stable-index-i/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3903-smallest-stable-index-i/",
+      "readmePath": "LeetCode-Solutions/Easy/3903-smallest-stable-index-i/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3903-smallest-stable-index-i.py",
-          "path": "LeetCode-Solutions/3903-smallest-stable-index-i/3903-smallest-stable-index-i.py",
+          "path": "LeetCode-Solutions/Easy/3903-smallest-stable-index-i/Python/3903-smallest-stable-index-i.py",
           "sha": "c16cb454eceebaa58fac13433cf275ec93573a5e",
-          "lastSyncedAt": "2026-11-15T03:46:36.118Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

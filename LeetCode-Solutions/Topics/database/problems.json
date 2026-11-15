@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T03:50:48.947Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "175",
@@ -14,16 +14,16 @@
       "problemName": "0175-combine-two-tables",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/combine-two-tables/",
-      "folderPath": "LeetCode-Solutions/0175-combine-two-tables/",
-      "readmePath": "LeetCode-Solutions/0175-combine-two-tables/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0175-combine-two-tables/",
+      "readmePath": "LeetCode-Solutions/Easy/0175-combine-two-tables/README.md",
       "solutions": [
         {
           "language": "MySQL",
           "extension": ".sql",
           "filename": "0175-combine-two-tables.sql",
-          "path": "LeetCode-Solutions/0175-combine-two-tables/0175-combine-two-tables.sql",
+          "path": "LeetCode-Solutions/Easy/0175-combine-two-tables/MySQL/0175-combine-two-tables.sql",
           "sha": "77ecb289f9c35e07bd31ab4617b09c8ff7da5e95",
-          "lastSyncedAt": "2026-11-15T03:50:48.947Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -34,16 +34,16 @@
       "problemName": "0181-employees-earning-more-than-their-managers",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
-      "folderPath": "LeetCode-Solutions/0181-employees-earning-more-than-their-managers/",
-      "readmePath": "LeetCode-Solutions/0181-employees-earning-more-than-their-managers/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0181-employees-earning-more-than-their-managers/",
+      "readmePath": "LeetCode-Solutions/Easy/0181-employees-earning-more-than-their-managers/README.md",
       "solutions": [
         {
           "language": "MySQL",
           "extension": ".sql",
           "filename": "0181-employees-earning-more-than-their-managers.sql",
-          "path": "LeetCode-Solutions/0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
+          "path": "LeetCode-Solutions/Easy/0181-employees-earning-more-than-their-managers/MySQL/0181-employees-earning-more-than-their-managers.sql",
           "sha": "d69f19ad472c84af03e03548d7fee960581634c0",
-          "lastSyncedAt": "2026-11-15T03:49:56.938Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -54,16 +54,16 @@
       "problemName": "0182-duplicate-emails",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/duplicate-emails/",
-      "folderPath": "LeetCode-Solutions/0182-duplicate-emails/",
-      "readmePath": "LeetCode-Solutions/0182-duplicate-emails/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0182-duplicate-emails/",
+      "readmePath": "LeetCode-Solutions/Easy/0182-duplicate-emails/README.md",
       "solutions": [
         {
           "language": "MySQL",
           "extension": ".sql",
           "filename": "0182-duplicate-emails.sql",
-          "path": "LeetCode-Solutions/0182-duplicate-emails/0182-duplicate-emails.sql",
+          "path": "LeetCode-Solutions/Easy/0182-duplicate-emails/MySQL/0182-duplicate-emails.sql",
           "sha": "d4d6cc506ba7bbbf9f2a2f4381d649b5a6ccb6ff",
-          "lastSyncedAt": "2026-11-15T03:50:10.502Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:54:13.220Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "13",
@@ -21,9 +21,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0013-roman-to-integer.py",
-          "path": "LeetCode-Solutions/0013-roman-to-integer/0013-roman-to-integer.py",
+          "path": "LeetCode-Solutions/Easy/0013-roman-to-integer/Python/0013-roman-to-integer.py",
           "sha": "ce2298771aaef0b190c4b1ef8f3af55d04d63f23",
-          "lastSyncedAt": "2026-11-15T03:53:52.752Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -41,9 +41,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0014-longest-common-prefix.py",
-          "path": "LeetCode-Solutions/0014-longest-common-prefix/0014-longest-common-prefix.py",
+          "path": "LeetCode-Solutions/Easy/0014-longest-common-prefix/Python/0014-longest-common-prefix.py",
           "sha": "453b5e422ec49ed5f55ef988093eba3eafc9ed95",
-          "lastSyncedAt": "2026-11-15T03:54:13.220Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -54,16 +54,16 @@
       "problemName": "0020-valid-parentheses",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
-      "folderPath": "LeetCode-Solutions/0020-valid-parentheses/",
-      "readmePath": "LeetCode-Solutions/0020-valid-parentheses/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0020-valid-parentheses/",
+      "readmePath": "LeetCode-Solutions/Easy/0020-valid-parentheses/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0020-valid-parentheses.py",
-          "path": "LeetCode-Solutions/0020-valid-parentheses/0020-valid-parentheses.py",
+          "path": "LeetCode-Solutions/Easy/0020-valid-parentheses/Python/0020-valid-parentheses.py",
           "sha": "0a5ebf6e1a6ee9c8a84cce018e5edd7543ff41fb",
-          "lastSyncedAt": "2026-11-15T03:45:56.281Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
-          "path": "LeetCode-Solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "path": "LeetCode-Solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/Python/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "29f7a70cfe412933d9d5e9db3c902c6247ce3987",
-          "lastSyncedAt": "2026-11-15T03:53:59.315Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -94,16 +94,16 @@
       "problemName": "0049-group-anagrams",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
-      "folderPath": "LeetCode-Solutions/0049-group-anagrams/",
-      "readmePath": "LeetCode-Solutions/0049-group-anagrams/README.md",
+      "folderPath": "LeetCode-Solutions/Medium/0049-group-anagrams/",
+      "readmePath": "LeetCode-Solutions/Medium/0049-group-anagrams/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0049-group-anagrams.py",
-          "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
+          "path": "LeetCode-Solutions/Medium/0049-group-anagrams/Python/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
-          "lastSyncedAt": "2026-11-15T03:45:42.874Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -114,16 +114,16 @@
       "problemName": "0058-length-of-last-word",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
-      "folderPath": "LeetCode-Solutions/0058-length-of-last-word/",
-      "readmePath": "LeetCode-Solutions/0058-length-of-last-word/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0058-length-of-last-word/",
+      "readmePath": "LeetCode-Solutions/Easy/0058-length-of-last-word/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0058-length-of-last-word.py",
-          "path": "LeetCode-Solutions/0058-length-of-last-word/0058-length-of-last-word.py",
+          "path": "LeetCode-Solutions/Easy/0058-length-of-last-word/Python/0058-length-of-last-word.py",
           "sha": "22e220018b6d38dde456cdfd8607a6525343e493",
-          "lastSyncedAt": "2026-11-15T03:53:07.088Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -134,16 +134,16 @@
       "problemName": "0067-add-binary",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
-      "folderPath": "LeetCode-Solutions/0067-add-binary/",
-      "readmePath": "LeetCode-Solutions/0067-add-binary/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0067-add-binary/",
+      "readmePath": "LeetCode-Solutions/Easy/0067-add-binary/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0067-add-binary.py",
-          "path": "LeetCode-Solutions/0067-add-binary/0067-add-binary.py",
+          "path": "LeetCode-Solutions/Easy/0067-add-binary/Python/0067-add-binary.py",
           "sha": "266e41d5bf88b7e11e0137143112e4a09fd29e37",
-          "lastSyncedAt": "2026-11-15T03:52:52.695Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -154,16 +154,16 @@
       "problemName": "0125-valid-palindrome",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
-      "folderPath": "LeetCode-Solutions/0125-valid-palindrome/",
-      "readmePath": "LeetCode-Solutions/0125-valid-palindrome/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0125-valid-palindrome/",
+      "readmePath": "LeetCode-Solutions/Easy/0125-valid-palindrome/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0125-valid-palindrome.py",
-          "path": "LeetCode-Solutions/0125-valid-palindrome/0125-valid-palindrome.py",
+          "path": "LeetCode-Solutions/Easy/0125-valid-palindrome/Python/0125-valid-palindrome.py",
           "sha": "ceaef0fd6b91d0a67f7d98977fa231b117e1a4c9",
-          "lastSyncedAt": "2026-11-15T03:52:14.083Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -174,16 +174,16 @@
       "problemName": "0168-excel-sheet-column-title",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
-      "folderPath": "LeetCode-Solutions/0168-excel-sheet-column-title/",
-      "readmePath": "LeetCode-Solutions/0168-excel-sheet-column-title/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0168-excel-sheet-column-title/",
+      "readmePath": "LeetCode-Solutions/Easy/0168-excel-sheet-column-title/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0168-excel-sheet-column-title.py",
-          "path": "LeetCode-Solutions/0168-excel-sheet-column-title/0168-excel-sheet-column-title.py",
+          "path": "LeetCode-Solutions/Easy/0168-excel-sheet-column-title/Python/0168-excel-sheet-column-title.py",
           "sha": "913adcba994c6368f017ca28cada00ad827c0f73",
-          "lastSyncedAt": "2026-11-15T03:51:11.798Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -194,16 +194,16 @@
       "problemName": "0171-excel-sheet-column-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
-      "folderPath": "LeetCode-Solutions/0171-excel-sheet-column-number/",
-      "readmePath": "LeetCode-Solutions/0171-excel-sheet-column-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0171-excel-sheet-column-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0171-excel-sheet-column-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0171-excel-sheet-column-number.py",
-          "path": "LeetCode-Solutions/0171-excel-sheet-column-number/0171-excel-sheet-column-number.py",
+          "path": "LeetCode-Solutions/Easy/0171-excel-sheet-column-number/Python/0171-excel-sheet-column-number.py",
           "sha": "d0bb0f543c5382993047178c58a72620afec43d3",
-          "lastSyncedAt": "2026-11-15T03:50:01.240Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -214,16 +214,16 @@
       "problemName": "0205-isomorphic-strings",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
-      "folderPath": "LeetCode-Solutions/0205-isomorphic-strings/",
-      "readmePath": "LeetCode-Solutions/0205-isomorphic-strings/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0205-isomorphic-strings/",
+      "readmePath": "LeetCode-Solutions/Easy/0205-isomorphic-strings/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0205-isomorphic-strings.py",
-          "path": "LeetCode-Solutions/0205-isomorphic-strings/0205-isomorphic-strings.py",
+          "path": "LeetCode-Solutions/Easy/0205-isomorphic-strings/Python/0205-isomorphic-strings.py",
           "sha": "de56348142be471a8665c5e93013474452722fe6",
-          "lastSyncedAt": "2026-11-15T03:50:20.655Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -234,16 +234,16 @@
       "problemName": "0242-valid-anagram",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
-      "folderPath": "LeetCode-Solutions/0242-valid-anagram/",
-      "readmePath": "LeetCode-Solutions/0242-valid-anagram/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0242-valid-anagram/",
+      "readmePath": "LeetCode-Solutions/Easy/0242-valid-anagram/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0242-valid-anagram.py",
-          "path": "LeetCode-Solutions/0242-valid-anagram/0242-valid-anagram.py",
+          "path": "LeetCode-Solutions/Easy/0242-valid-anagram/Python/0242-valid-anagram.py",
           "sha": "b939cd894ee09680964cf58299227468329144f0",
-          "lastSyncedAt": "2026-11-15T03:49:36.261Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -254,16 +254,16 @@
       "problemName": "0290-word-pattern",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/word-pattern/",
-      "folderPath": "LeetCode-Solutions/0290-word-pattern/",
-      "readmePath": "LeetCode-Solutions/0290-word-pattern/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0290-word-pattern/",
+      "readmePath": "LeetCode-Solutions/Easy/0290-word-pattern/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0290-word-pattern.py",
-          "path": "LeetCode-Solutions/0290-word-pattern/0290-word-pattern.py",
+          "path": "LeetCode-Solutions/Easy/0290-word-pattern/Python/0290-word-pattern.py",
           "sha": "bda6eb6453c7dfd68bdc18ab1d361f323dc691e1",
-          "lastSyncedAt": "2026-11-15T03:50:51.781Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -274,16 +274,16 @@
       "problemName": "0344-reverse-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
-      "folderPath": "LeetCode-Solutions/0344-reverse-string/",
-      "readmePath": "LeetCode-Solutions/0344-reverse-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0344-reverse-string/",
+      "readmePath": "LeetCode-Solutions/Easy/0344-reverse-string/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0344-reverse-string.py",
-          "path": "LeetCode-Solutions/0344-reverse-string/0344-reverse-string.py",
+          "path": "LeetCode-Solutions/Easy/0344-reverse-string/Python/0344-reverse-string.py",
           "sha": "47ec81f904fa0853826d757ed8e92205d1339811",
-          "lastSyncedAt": "2026-11-15T03:49:10.450Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -294,16 +294,16 @@
       "problemName": "0345-reverse-vowels-of-a-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
-      "folderPath": "LeetCode-Solutions/0345-reverse-vowels-of-a-string/",
-      "readmePath": "LeetCode-Solutions/0345-reverse-vowels-of-a-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0345-reverse-vowels-of-a-string/",
+      "readmePath": "LeetCode-Solutions/Easy/0345-reverse-vowels-of-a-string/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0345-reverse-vowels-of-a-string.py",
-          "path": "LeetCode-Solutions/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.py",
+          "path": "LeetCode-Solutions/Easy/0345-reverse-vowels-of-a-string/Python/0345-reverse-vowels-of-a-string.py",
           "sha": "a9b2e6ec0fab0e47c96a466feaf6c1509369d335",
-          "lastSyncedAt": "2026-11-15T03:48:53.129Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -314,16 +314,16 @@
       "problemName": "0383-ransom-note",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
-      "folderPath": "LeetCode-Solutions/0383-ransom-note/",
-      "readmePath": "LeetCode-Solutions/0383-ransom-note/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0383-ransom-note/",
+      "readmePath": "LeetCode-Solutions/Easy/0383-ransom-note/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0383-ransom-note.py",
-          "path": "LeetCode-Solutions/0383-ransom-note/0383-ransom-note.py",
+          "path": "LeetCode-Solutions/Easy/0383-ransom-note/Python/0383-ransom-note.py",
           "sha": "b8a55be97449f03b024c1e4af8d11fde1e45676e",
-          "lastSyncedAt": "2026-11-15T03:48:23.956Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -334,16 +334,16 @@
       "problemName": "0387-first-unique-character-in-a-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/first-unique-character-in-a-string/",
-      "folderPath": "LeetCode-Solutions/0387-first-unique-character-in-a-string/",
-      "readmePath": "LeetCode-Solutions/0387-first-unique-character-in-a-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0387-first-unique-character-in-a-string/",
+      "readmePath": "LeetCode-Solutions/Easy/0387-first-unique-character-in-a-string/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0387-first-unique-character-in-a-string.py",
-          "path": "LeetCode-Solutions/0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.py",
+          "path": "LeetCode-Solutions/Easy/0387-first-unique-character-in-a-string/Python/0387-first-unique-character-in-a-string.py",
           "sha": "cfb185174b4e794670f6c24e4e9e321ce0aa058f",
-          "lastSyncedAt": "2026-11-15T03:48:14.326Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -354,16 +354,16 @@
       "problemName": "0389-find-the-difference",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
-      "folderPath": "LeetCode-Solutions/0389-find-the-difference/",
-      "readmePath": "LeetCode-Solutions/0389-find-the-difference/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0389-find-the-difference/",
+      "readmePath": "LeetCode-Solutions/Easy/0389-find-the-difference/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0389-find-the-difference.py",
-          "path": "LeetCode-Solutions/0389-find-the-difference/0389-find-the-difference.py",
+          "path": "LeetCode-Solutions/Easy/0389-find-the-difference/Python/0389-find-the-difference.py",
           "sha": "fe705b4557229945476047e23edad8aa892650f9",
-          "lastSyncedAt": "2026-11-15T03:48:05.002Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -374,16 +374,16 @@
       "problemName": "0392-is-subsequence",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
-      "folderPath": "LeetCode-Solutions/0392-is-subsequence/",
-      "readmePath": "LeetCode-Solutions/0392-is-subsequence/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0392-is-subsequence/",
+      "readmePath": "LeetCode-Solutions/Easy/0392-is-subsequence/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0392-is-subsequence.py",
-          "path": "LeetCode-Solutions/0392-is-subsequence/0392-is-subsequence.py",
+          "path": "LeetCode-Solutions/Easy/0392-is-subsequence/Python/0392-is-subsequence.py",
           "sha": "15c96a73ceefbc2c2cb468b362eb87c4a08fc5d7",
-          "lastSyncedAt": "2026-11-15T03:46:41.239Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -394,16 +394,16 @@
       "problemName": "0412-fizz-buzz",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
-      "folderPath": "LeetCode-Solutions/0412-fizz-buzz/",
-      "readmePath": "LeetCode-Solutions/0412-fizz-buzz/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0412-fizz-buzz/",
+      "readmePath": "LeetCode-Solutions/Easy/0412-fizz-buzz/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0412-fizz-buzz.py",
-          "path": "LeetCode-Solutions/0412-fizz-buzz/0412-fizz-buzz.py",
+          "path": "LeetCode-Solutions/Easy/0412-fizz-buzz/Python/0412-fizz-buzz.py",
           "sha": "624af4e7a86d753a29fd948d157c482811859aef",
-          "lastSyncedAt": "2026-11-15T03:52:18.446Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -414,16 +414,16 @@
       "problemName": "0415-add-strings",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
-      "folderPath": "LeetCode-Solutions/0415-add-strings/",
-      "readmePath": "LeetCode-Solutions/0415-add-strings/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0415-add-strings/",
+      "readmePath": "LeetCode-Solutions/Easy/0415-add-strings/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0415-add-strings.py",
-          "path": "LeetCode-Solutions/0415-add-strings/0415-add-strings.py",
+          "path": "LeetCode-Solutions/Easy/0415-add-strings/Python/0415-add-strings.py",
           "sha": "2a9e2993390117a0f6fff1ea8d66146079359fd4",
-          "lastSyncedAt": "2026-11-15T03:47:56.099Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -434,16 +434,16 @@
       "problemName": "0500-keyboard-row",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
-      "folderPath": "LeetCode-Solutions/0500-keyboard-row/",
-      "readmePath": "LeetCode-Solutions/0500-keyboard-row/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0500-keyboard-row/",
+      "readmePath": "LeetCode-Solutions/Easy/0500-keyboard-row/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0500-keyboard-row.py",
-          "path": "LeetCode-Solutions/0500-keyboard-row/0500-keyboard-row.py",
+          "path": "LeetCode-Solutions/Easy/0500-keyboard-row/Python/0500-keyboard-row.py",
           "sha": "0c27a33b0922a98c9c1cb3885c077a83a46c2a07",
-          "lastSyncedAt": "2026-11-15T03:46:03.967Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -454,16 +454,16 @@
       "problemName": "0796-rotate-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
-      "folderPath": "LeetCode-Solutions/0796-rotate-string/",
-      "readmePath": "LeetCode-Solutions/0796-rotate-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0796-rotate-string/",
+      "readmePath": "LeetCode-Solutions/Easy/0796-rotate-string/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0796-rotate-string.py",
-          "path": "LeetCode-Solutions/0796-rotate-string/0796-rotate-string.py",
+          "path": "LeetCode-Solutions/Easy/0796-rotate-string/Python/0796-rotate-string.py",
           "sha": "665b35ab2961f66d716c151a7a586aac44a9b849",
-          "lastSyncedAt": "2026-11-15T03:53:10.873Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -474,16 +474,16 @@
       "problemName": "1614-maximum-nesting-depth-of-the-parentheses",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
-      "folderPath": "LeetCode-Solutions/1614-maximum-nesting-depth-of-the-parentheses/",
-      "readmePath": "LeetCode-Solutions/1614-maximum-nesting-depth-of-the-parentheses/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/",
+      "readmePath": "LeetCode-Solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.py",
-          "path": "LeetCode-Solutions/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.py",
+          "path": "LeetCode-Solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/Python/1614-maximum-nesting-depth-of-the-parentheses.py",
           "sha": "ae31d9aa4dff91a65fc3d492063383aa653163ef",
-          "lastSyncedAt": "2026-11-15T03:46:16.598Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -494,16 +494,16 @@
       "problemName": "1758-minimum-changes-to-make-alternating-binary-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/",
-      "folderPath": "LeetCode-Solutions/1758-minimum-changes-to-make-alternating-binary-string/",
-      "readmePath": "LeetCode-Solutions/1758-minimum-changes-to-make-alternating-binary-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/1758-minimum-changes-to-make-alternating-binary-string/",
+      "readmePath": "LeetCode-Solutions/Easy/1758-minimum-changes-to-make-alternating-binary-string/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "1758-minimum-changes-to-make-alternating-binary-string.py",
-          "path": "LeetCode-Solutions/1758-minimum-changes-to-make-alternating-binary-string/1758-minimum-changes-to-make-alternating-binary-string.py",
+          "path": "LeetCode-Solutions/Easy/1758-minimum-changes-to-make-alternating-binary-string/Python/1758-minimum-changes-to-make-alternating-binary-string.py",
           "sha": "eb00bbc0ca83ff9171f3a6b2488797fd3d4035a6",
-          "lastSyncedAt": "2026-11-15T03:50:07.071Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -514,16 +514,16 @@
       "problemName": "2409-count-days-spent-together",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
-      "folderPath": "LeetCode-Solutions/2409-count-days-spent-together/",
-      "readmePath": "LeetCode-Solutions/2409-count-days-spent-together/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/2409-count-days-spent-together/",
+      "readmePath": "LeetCode-Solutions/Easy/2409-count-days-spent-together/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "2409-count-days-spent-together.py",
-          "path": "LeetCode-Solutions/2409-count-days-spent-together/2409-count-days-spent-together.py",
+          "path": "LeetCode-Solutions/Easy/2409-count-days-spent-together/Python/2409-count-days-spent-together.py",
           "sha": "1d6cc17dd3c8b1ea346a0201ae4324a596fe9271",
-          "lastSyncedAt": "2026-11-15T03:45:24.031Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -541,9 +541,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "3110-score-of-a-string.py",
-          "path": "LeetCode-Solutions/3110-score-of-a-string/3110-score-of-a-string.py",
+          "path": "LeetCode-Solutions/Easy/3110-score-of-a-string/Python/3110-score-of-a-string.py",
           "sha": "09bf5692e34b8fd48c78e5a01f5ac123195320dd",
-          "lastSyncedAt": "2026-11-15T03:53:36.322Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -554,16 +554,16 @@
       "problemName": "3498-reverse-degree-of-a-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
-      "folderPath": "LeetCode-Solutions/3498-reverse-degree-of-a-string/",
-      "readmePath": "LeetCode-Solutions/3498-reverse-degree-of-a-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3498-reverse-degree-of-a-string/",
+      "readmePath": "LeetCode-Solutions/Easy/3498-reverse-degree-of-a-string/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3498-reverse-degree-of-a-string.py",
-          "path": "LeetCode-Solutions/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
+          "path": "LeetCode-Solutions/Easy/3498-reverse-degree-of-a-string/Python/3498-reverse-degree-of-a-string.py",
           "sha": "672abdc273418e1443c76a7491855460db955194",
-          "lastSyncedAt": "2026-11-15T03:44:54.825Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -574,16 +574,16 @@
       "problemName": "3941-password-strength",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/password-strength/",
-      "folderPath": "LeetCode-Solutions/3941-password-strength/",
-      "readmePath": "LeetCode-Solutions/3941-password-strength/README.md",
+      "folderPath": "LeetCode-Solutions/Medium/3941-password-strength/",
+      "readmePath": "LeetCode-Solutions/Medium/3941-password-strength/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3941-password-strength.py",
-          "path": "LeetCode-Solutions/3941-password-strength/3941-password-strength.py",
+          "path": "LeetCode-Solutions/Medium/3941-password-strength/Python/3941-password-strength.py",
           "sha": "2f9a0b85cac66ccfd9ac70a0022e4c4b4e34cedc",
-          "lastSyncedAt": "2026-11-15T03:52:00.928Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -594,16 +594,16 @@
       "problemName": "4006-count-valid-prefixes",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/count-valid-prefixes/",
-      "folderPath": "LeetCode-Solutions/4006-count-valid-prefixes/",
-      "readmePath": "LeetCode-Solutions/4006-count-valid-prefixes/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/4006-count-valid-prefixes/",
+      "readmePath": "LeetCode-Solutions/Easy/4006-count-valid-prefixes/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "4006-count-valid-prefixes.py",
-          "path": "LeetCode-Solutions/4006-count-valid-prefixes/4006-count-valid-prefixes.py",
+          "path": "LeetCode-Solutions/Easy/4006-count-valid-prefixes/Python/4006-count-valid-prefixes.py",
           "sha": "ae2d600bba79d8f5036ad07446b1ad17382ea59e",
-          "lastSyncedAt": "2026-11-15T03:47:14.123Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

@@ -5,7 +5,7 @@
     "name": "Game Theory",
     "tagId": "61073"
   },
-  "updatedAt": "2026-11-15T03:51:37.482Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "292",
@@ -14,16 +14,16 @@
       "problemName": "0292-nim-game",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
-      "folderPath": "LeetCode-Solutions/0292-nim-game/",
-      "readmePath": "LeetCode-Solutions/0292-nim-game/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0292-nim-game/",
+      "readmePath": "LeetCode-Solutions/Easy/0292-nim-game/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0292-nim-game.py",
-          "path": "LeetCode-Solutions/0292-nim-game/0292-nim-game.py",
+          "path": "LeetCode-Solutions/Easy/0292-nim-game/Python/0292-nim-game.py",
           "sha": "926ec589733103a1d67d2caf54c2722ba04c3908",
-          "lastSyncedAt": "2026-11-15T03:51:37.482Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-15T03:53:40.095Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "35",
@@ -21,9 +21,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0035-search-insert-position.py",
-          "path": "LeetCode-Solutions/0035-search-insert-position/0035-search-insert-position.py",
+          "path": "LeetCode-Solutions/Easy/0035-search-insert-position/Python/0035-search-insert-position.py",
           "sha": "cea1addbde6a185a41c89efe422338034ed04f52",
-          "lastSyncedAt": "2026-11-15T03:53:40.095Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -34,16 +34,16 @@
       "problemName": "0268-missing-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
-      "folderPath": "LeetCode-Solutions/0268-missing-number/",
-      "readmePath": "LeetCode-Solutions/0268-missing-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0268-missing-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0268-missing-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0268-missing-number.py",
-          "path": "LeetCode-Solutions/0268-missing-number/0268-missing-number.py",
+          "path": "LeetCode-Solutions/Easy/0268-missing-number/Python/0268-missing-number.py",
           "sha": "f5b7822532a528087be476dfdb25d9c6f0f6d89c",
-          "lastSyncedAt": "2026-11-15T03:53:16.279Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -54,16 +54,16 @@
       "problemName": "0349-intersection-of-two-arrays",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
-      "folderPath": "LeetCode-Solutions/0349-intersection-of-two-arrays/",
-      "readmePath": "LeetCode-Solutions/0349-intersection-of-two-arrays/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0349-intersection-of-two-arrays/",
+      "readmePath": "LeetCode-Solutions/Easy/0349-intersection-of-two-arrays/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0349-intersection-of-two-arrays.py",
-          "path": "LeetCode-Solutions/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
+          "path": "LeetCode-Solutions/Easy/0349-intersection-of-two-arrays/Python/0349-intersection-of-two-arrays.py",
           "sha": "d39ba8e8b8fbdbf7e8b8c96328fc34416c2f540e",
-          "lastSyncedAt": "2026-11-15T03:48:42.689Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "problemName": "0350-intersection-of-two-arrays-ii",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
-      "folderPath": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/",
-      "readmePath": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0350-intersection-of-two-arrays-ii/",
+      "readmePath": "LeetCode-Solutions/Easy/0350-intersection-of-two-arrays-ii/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0350-intersection-of-two-arrays-ii.py",
-          "path": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py",
+          "path": "LeetCode-Solutions/Easy/0350-intersection-of-two-arrays-ii/Python/0350-intersection-of-two-arrays-ii.py",
           "sha": "45b095ba233783c85e3e002762b98aa3dea0e3c4",
-          "lastSyncedAt": "2026-11-15T03:48:30.340Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -94,16 +94,16 @@
       "problemName": "1385-find-the-distance-value-between-two-arrays",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
-      "folderPath": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/",
-      "readmePath": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "LeetCode-Solutions/Easy/1385-find-the-distance-value-between-two-arrays/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "1385-find-the-distance-value-between-two-arrays.py",
-          "path": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py",
+          "path": "LeetCode-Solutions/Easy/1385-find-the-distance-value-between-two-arrays/Python/1385-find-the-distance-value-between-two-arrays.py",
           "sha": "6c5d4a03e0ec2d482bb62a7fc55c26ba6d8aa591",
-          "lastSyncedAt": "2026-11-15T03:45:03.067Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -114,16 +114,16 @@
       "problemName": "2089-find-target-indices-after-sorting-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
-      "folderPath": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/",
-      "readmePath": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/2089-find-target-indices-after-sorting-array/",
+      "readmePath": "LeetCode-Solutions/Easy/2089-find-target-indices-after-sorting-array/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "2089-find-target-indices-after-sorting-array.py",
-          "path": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
+          "path": "LeetCode-Solutions/Easy/2089-find-target-indices-after-sorting-array/Python/2089-find-target-indices-after-sorting-array.py",
           "sha": "abb52052cf8de9013894979db80ae3af58ee7a73",
-          "lastSyncedAt": "2026-11-15T03:45:36.127Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

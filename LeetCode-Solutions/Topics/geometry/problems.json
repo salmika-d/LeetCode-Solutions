@@ -5,7 +5,7 @@
     "name": "Geometry",
     "tagId": "38"
   },
-  "updatedAt": "2026-11-15T03:46:27.849Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "836",
@@ -14,16 +14,16 @@
       "problemName": "0836-rectangle-overlap",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
-      "folderPath": "LeetCode-Solutions/0836-rectangle-overlap/",
-      "readmePath": "LeetCode-Solutions/0836-rectangle-overlap/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0836-rectangle-overlap/",
+      "readmePath": "LeetCode-Solutions/Easy/0836-rectangle-overlap/README.md",
       "solutions": [
         {
           "language": "Java",
           "extension": ".java",
           "filename": "0836-rectangle-overlap.java",
-          "path": "LeetCode-Solutions/0836-rectangle-overlap/0836-rectangle-overlap.java",
+          "path": "LeetCode-Solutions/Easy/0836-rectangle-overlap/Java/0836-rectangle-overlap.java",
           "sha": "ad967a5126423b6092b27cbae905d85c05a0046e",
-          "lastSyncedAt": "2026-11-15T03:46:27.849Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

@@ -5,7 +5,7 @@
     "name": "Enumeration",
     "tagId": "61066"
   },
-  "updatedAt": "2026-11-15T03:50:26.114Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "3954",
@@ -14,16 +14,16 @@
       "problemName": "3954-sum-of-compatible-numbers-in-range-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
-      "folderPath": "LeetCode-Solutions/3954-sum-of-compatible-numbers-in-range-i/",
-      "readmePath": "LeetCode-Solutions/3954-sum-of-compatible-numbers-in-range-i/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3954-sum-of-compatible-numbers-in-range-i/",
+      "readmePath": "LeetCode-Solutions/Easy/3954-sum-of-compatible-numbers-in-range-i/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3954-sum-of-compatible-numbers-in-range-i.py",
-          "path": "LeetCode-Solutions/3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.py",
+          "path": "LeetCode-Solutions/Easy/3954-sum-of-compatible-numbers-in-range-i/Python/3954-sum-of-compatible-numbers-in-range-i.py",
           "sha": "159df5633e0d1a394c5b338f5dbc6ea0ed988032",
-          "lastSyncedAt": "2026-11-15T03:50:26.114Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

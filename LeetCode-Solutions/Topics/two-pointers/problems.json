@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T03:53:59.315Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "26",
@@ -14,16 +14,16 @@
       "problemName": "0026-remove-duplicates-from-sorted-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-      "folderPath": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/",
-      "readmePath": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "LeetCode-Solutions/Easy/0026-remove-duplicates-from-sorted-array/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0026-remove-duplicates-from-sorted-array.py",
-          "path": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
+          "path": "LeetCode-Solutions/Easy/0026-remove-duplicates-from-sorted-array/Python/0026-remove-duplicates-from-sorted-array.py",
           "sha": "53a18f274d85e79c132391fd8c24828eb8d6b788",
-          "lastSyncedAt": "2026-11-15T03:53:31.351Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -41,9 +41,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0027-remove-element.py",
-          "path": "LeetCode-Solutions/0027-remove-element/0027-remove-element.py",
+          "path": "LeetCode-Solutions/Easy/0027-remove-element/Python/0027-remove-element.py",
           "sha": "06690dc0d05c693148c04a1893920f501fd81c76",
-          "lastSyncedAt": "2026-11-15T03:53:47.839Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -61,9 +61,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
-          "path": "LeetCode-Solutions/0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "path": "LeetCode-Solutions/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/Python/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
           "sha": "29f7a70cfe412933d9d5e9db3c902c6247ce3987",
-          "lastSyncedAt": "2026-11-15T03:53:59.315Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "problemName": "0088-merge-sorted-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
-      "folderPath": "LeetCode-Solutions/0088-merge-sorted-array/",
-      "readmePath": "LeetCode-Solutions/0088-merge-sorted-array/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0088-merge-sorted-array/",
+      "readmePath": "LeetCode-Solutions/Easy/0088-merge-sorted-array/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0088-merge-sorted-array.py",
-          "path": "LeetCode-Solutions/0088-merge-sorted-array/0088-merge-sorted-array.py",
+          "path": "LeetCode-Solutions/Easy/0088-merge-sorted-array/Python/0088-merge-sorted-array.py",
           "sha": "5ba519f56a07d83cc0f31d7b137b6826026f3af7",
-          "lastSyncedAt": "2026-11-15T03:52:36.155Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -94,16 +94,16 @@
       "problemName": "0125-valid-palindrome",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
-      "folderPath": "LeetCode-Solutions/0125-valid-palindrome/",
-      "readmePath": "LeetCode-Solutions/0125-valid-palindrome/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0125-valid-palindrome/",
+      "readmePath": "LeetCode-Solutions/Easy/0125-valid-palindrome/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0125-valid-palindrome.py",
-          "path": "LeetCode-Solutions/0125-valid-palindrome/0125-valid-palindrome.py",
+          "path": "LeetCode-Solutions/Easy/0125-valid-palindrome/Python/0125-valid-palindrome.py",
           "sha": "ceaef0fd6b91d0a67f7d98977fa231b117e1a4c9",
-          "lastSyncedAt": "2026-11-15T03:52:14.083Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -114,16 +114,16 @@
       "problemName": "0202-happy-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
-      "folderPath": "LeetCode-Solutions/0202-happy-number/",
-      "readmePath": "LeetCode-Solutions/0202-happy-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0202-happy-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0202-happy-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0202-happy-number.py",
-          "path": "LeetCode-Solutions/0202-happy-number/0202-happy-number.py",
+          "path": "LeetCode-Solutions/Easy/0202-happy-number/Python/0202-happy-number.py",
           "sha": "f58a8c6e673a23a0bd71a3e8834b33474c5b8883",
-          "lastSyncedAt": "2026-11-15T03:52:25.957Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -134,16 +134,16 @@
       "problemName": "0283-move-zeroes",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
-      "folderPath": "LeetCode-Solutions/0283-move-zeroes/",
-      "readmePath": "LeetCode-Solutions/0283-move-zeroes/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0283-move-zeroes/",
+      "readmePath": "LeetCode-Solutions/Easy/0283-move-zeroes/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0283-move-zeroes.py",
-          "path": "LeetCode-Solutions/0283-move-zeroes/0283-move-zeroes.py",
+          "path": "LeetCode-Solutions/Easy/0283-move-zeroes/Python/0283-move-zeroes.py",
           "sha": "d544a2c75b5e5495f468a3a422b7d8c2a5ba2fb4",
-          "lastSyncedAt": "2026-11-15T03:51:31.539Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -154,16 +154,16 @@
       "problemName": "0344-reverse-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
-      "folderPath": "LeetCode-Solutions/0344-reverse-string/",
-      "readmePath": "LeetCode-Solutions/0344-reverse-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0344-reverse-string/",
+      "readmePath": "LeetCode-Solutions/Easy/0344-reverse-string/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0344-reverse-string.py",
-          "path": "LeetCode-Solutions/0344-reverse-string/0344-reverse-string.py",
+          "path": "LeetCode-Solutions/Easy/0344-reverse-string/Python/0344-reverse-string.py",
           "sha": "47ec81f904fa0853826d757ed8e92205d1339811",
-          "lastSyncedAt": "2026-11-15T03:49:10.450Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -174,16 +174,16 @@
       "problemName": "0345-reverse-vowels-of-a-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-vowels-of-a-string/",
-      "folderPath": "LeetCode-Solutions/0345-reverse-vowels-of-a-string/",
-      "readmePath": "LeetCode-Solutions/0345-reverse-vowels-of-a-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0345-reverse-vowels-of-a-string/",
+      "readmePath": "LeetCode-Solutions/Easy/0345-reverse-vowels-of-a-string/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0345-reverse-vowels-of-a-string.py",
-          "path": "LeetCode-Solutions/0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.py",
+          "path": "LeetCode-Solutions/Easy/0345-reverse-vowels-of-a-string/Python/0345-reverse-vowels-of-a-string.py",
           "sha": "a9b2e6ec0fab0e47c96a466feaf6c1509369d335",
-          "lastSyncedAt": "2026-11-15T03:48:53.129Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -194,16 +194,16 @@
       "problemName": "0349-intersection-of-two-arrays",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
-      "folderPath": "LeetCode-Solutions/0349-intersection-of-two-arrays/",
-      "readmePath": "LeetCode-Solutions/0349-intersection-of-two-arrays/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0349-intersection-of-two-arrays/",
+      "readmePath": "LeetCode-Solutions/Easy/0349-intersection-of-two-arrays/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0349-intersection-of-two-arrays.py",
-          "path": "LeetCode-Solutions/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
+          "path": "LeetCode-Solutions/Easy/0349-intersection-of-two-arrays/Python/0349-intersection-of-two-arrays.py",
           "sha": "d39ba8e8b8fbdbf7e8b8c96328fc34416c2f540e",
-          "lastSyncedAt": "2026-11-15T03:48:42.689Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -214,16 +214,16 @@
       "problemName": "0350-intersection-of-two-arrays-ii",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
-      "folderPath": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/",
-      "readmePath": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0350-intersection-of-two-arrays-ii/",
+      "readmePath": "LeetCode-Solutions/Easy/0350-intersection-of-two-arrays-ii/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0350-intersection-of-two-arrays-ii.py",
-          "path": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py",
+          "path": "LeetCode-Solutions/Easy/0350-intersection-of-two-arrays-ii/Python/0350-intersection-of-two-arrays-ii.py",
           "sha": "45b095ba233783c85e3e002762b98aa3dea0e3c4",
-          "lastSyncedAt": "2026-11-15T03:48:30.340Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -234,16 +234,16 @@
       "problemName": "0392-is-subsequence",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
-      "folderPath": "LeetCode-Solutions/0392-is-subsequence/",
-      "readmePath": "LeetCode-Solutions/0392-is-subsequence/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0392-is-subsequence/",
+      "readmePath": "LeetCode-Solutions/Easy/0392-is-subsequence/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0392-is-subsequence.py",
-          "path": "LeetCode-Solutions/0392-is-subsequence/0392-is-subsequence.py",
+          "path": "LeetCode-Solutions/Easy/0392-is-subsequence/Python/0392-is-subsequence.py",
           "sha": "15c96a73ceefbc2c2cb468b362eb87c4a08fc5d7",
-          "lastSyncedAt": "2026-11-15T03:46:41.239Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -254,16 +254,16 @@
       "problemName": "1385-find-the-distance-value-between-two-arrays",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
-      "folderPath": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/",
-      "readmePath": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "LeetCode-Solutions/Easy/1385-find-the-distance-value-between-two-arrays/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "1385-find-the-distance-value-between-two-arrays.py",
-          "path": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py",
+          "path": "LeetCode-Solutions/Easy/1385-find-the-distance-value-between-two-arrays/Python/1385-find-the-distance-value-between-two-arrays.py",
           "sha": "6c5d4a03e0ec2d482bb62a7fc55c26ba6d8aa591",
-          "lastSyncedAt": "2026-11-15T03:45:03.067Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -274,16 +274,16 @@
       "problemName": "3940-limit-occurrences-in-sorted-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
-      "folderPath": "LeetCode-Solutions/3940-limit-occurrences-in-sorted-array/",
-      "readmePath": "LeetCode-Solutions/3940-limit-occurrences-in-sorted-array/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3940-limit-occurrences-in-sorted-array/",
+      "readmePath": "LeetCode-Solutions/Easy/3940-limit-occurrences-in-sorted-array/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3940-limit-occurrences-in-sorted-array.py",
-          "path": "LeetCode-Solutions/3940-limit-occurrences-in-sorted-array/3940-limit-occurrences-in-sorted-array.py",
+          "path": "LeetCode-Solutions/Easy/3940-limit-occurrences-in-sorted-array/Python/3940-limit-occurrences-in-sorted-array.py",
           "sha": "46f1c6ea852e72a963e15362d49fe3ca5f26c50e",
-          "lastSyncedAt": "2026-11-15T03:52:07.485Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -294,16 +294,16 @@
       "problemName": "4014-minimum-total-price-after-applying-discounts",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/minimum-total-price-after-applying-discounts/",
-      "folderPath": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/",
-      "readmePath": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/README.md",
+      "folderPath": "LeetCode-Solutions/Medium/4014-minimum-total-price-after-applying-discounts/",
+      "readmePath": "LeetCode-Solutions/Medium/4014-minimum-total-price-after-applying-discounts/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "4014-minimum-total-price-after-applying-discounts.py",
-          "path": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/4014-minimum-total-price-after-applying-discounts.py",
+          "path": "LeetCode-Solutions/Medium/4014-minimum-total-price-after-applying-discounts/Python/4014-minimum-total-price-after-applying-discounts.py",
           "sha": "ef7f2822088b26dab8e34e995289626271756ab5",
-          "lastSyncedAt": "2026-11-15T03:47:01.317Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

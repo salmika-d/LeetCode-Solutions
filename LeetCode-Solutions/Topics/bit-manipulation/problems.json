@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T03:54:21.323Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "67",
@@ -14,16 +14,16 @@
       "problemName": "0067-add-binary",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
-      "folderPath": "LeetCode-Solutions/0067-add-binary/",
-      "readmePath": "LeetCode-Solutions/0067-add-binary/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0067-add-binary/",
+      "readmePath": "LeetCode-Solutions/Easy/0067-add-binary/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0067-add-binary.py",
-          "path": "LeetCode-Solutions/0067-add-binary/0067-add-binary.py",
+          "path": "LeetCode-Solutions/Easy/0067-add-binary/Python/0067-add-binary.py",
           "sha": "266e41d5bf88b7e11e0137143112e4a09fd29e37",
-          "lastSyncedAt": "2026-11-15T03:52:52.695Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -34,16 +34,16 @@
       "problemName": "0136-single-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/single-number/",
-      "folderPath": "LeetCode-Solutions/0136-single-number/",
-      "readmePath": "LeetCode-Solutions/0136-single-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0136-single-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0136-single-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0136-single-number.py",
-          "path": "LeetCode-Solutions/0136-single-number/0136-single-number.py",
+          "path": "LeetCode-Solutions/Easy/0136-single-number/Python/0136-single-number.py",
           "sha": "81c0314fa91f97e5fef96a33efd258840de14f67",
-          "lastSyncedAt": "2026-11-15T03:51:06.522Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -54,16 +54,16 @@
       "problemName": "0190-reverse-bits",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
-      "folderPath": "LeetCode-Solutions/0190-reverse-bits/",
-      "readmePath": "LeetCode-Solutions/0190-reverse-bits/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0190-reverse-bits/",
+      "readmePath": "LeetCode-Solutions/Easy/0190-reverse-bits/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0190-reverse-bits.py",
-          "path": "LeetCode-Solutions/0190-reverse-bits/0190-reverse-bits.py",
+          "path": "LeetCode-Solutions/Easy/0190-reverse-bits/Python/0190-reverse-bits.py",
           "sha": "6e7276d772783a2aa6fc353419bd2df49550ae63",
-          "lastSyncedAt": "2026-11-15T03:51:26.828Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "problemName": "0191-number-of-1-bits",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
-      "folderPath": "LeetCode-Solutions/0191-number-of-1-bits/",
-      "readmePath": "LeetCode-Solutions/0191-number-of-1-bits/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0191-number-of-1-bits/",
+      "readmePath": "LeetCode-Solutions/Easy/0191-number-of-1-bits/README.md",
       "solutions": [
         {
           "language": "Java",
           "extension": ".java",
           "filename": "0191-number-of-1-bits.java",
-          "path": "LeetCode-Solutions/0191-number-of-1-bits/0191-number-of-1-bits.java",
+          "path": "LeetCode-Solutions/Easy/0191-number-of-1-bits/Java/0191-number-of-1-bits.java",
           "sha": "0a10980fe14d33793549d0580eacccf8a4c337e8",
-          "lastSyncedAt": "2026-11-15T03:51:17.007Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -94,16 +94,16 @@
       "problemName": "0231-power-of-two",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
-      "folderPath": "LeetCode-Solutions/0231-power-of-two/",
-      "readmePath": "LeetCode-Solutions/0231-power-of-two/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0231-power-of-two/",
+      "readmePath": "LeetCode-Solutions/Easy/0231-power-of-two/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0231-power-of-two.py",
-          "path": "LeetCode-Solutions/0231-power-of-two/0231-power-of-two.py",
+          "path": "LeetCode-Solutions/Easy/0231-power-of-two/Python/0231-power-of-two.py",
           "sha": "cf7e7ac6c0e178a5bc3890d9a1d8b708f5ddc611",
-          "lastSyncedAt": "2026-11-15T03:49:24.790Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -114,16 +114,16 @@
       "problemName": "0268-missing-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
-      "folderPath": "LeetCode-Solutions/0268-missing-number/",
-      "readmePath": "LeetCode-Solutions/0268-missing-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0268-missing-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0268-missing-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0268-missing-number.py",
-          "path": "LeetCode-Solutions/0268-missing-number/0268-missing-number.py",
+          "path": "LeetCode-Solutions/Easy/0268-missing-number/Python/0268-missing-number.py",
           "sha": "f5b7822532a528087be476dfdb25d9c6f0f6d89c",
-          "lastSyncedAt": "2026-11-15T03:53:16.279Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -134,16 +134,16 @@
       "problemName": "0338-counting-bits",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
-      "folderPath": "LeetCode-Solutions/0338-counting-bits/",
-      "readmePath": "LeetCode-Solutions/0338-counting-bits/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0338-counting-bits/",
+      "readmePath": "LeetCode-Solutions/Easy/0338-counting-bits/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0338-counting-bits.py",
-          "path": "LeetCode-Solutions/0338-counting-bits/0338-counting-bits.py",
+          "path": "LeetCode-Solutions/Easy/0338-counting-bits/Python/0338-counting-bits.py",
           "sha": "4aa8fe30732b21729c527cf1fb239f3e40466237",
-          "lastSyncedAt": "2026-11-15T03:49:30.522Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -154,16 +154,16 @@
       "problemName": "0342-power-of-four",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
-      "folderPath": "LeetCode-Solutions/0342-power-of-four/",
-      "readmePath": "LeetCode-Solutions/0342-power-of-four/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0342-power-of-four/",
+      "readmePath": "LeetCode-Solutions/Easy/0342-power-of-four/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0342-power-of-four.py",
-          "path": "LeetCode-Solutions/0342-power-of-four/0342-power-of-four.py",
+          "path": "LeetCode-Solutions/Easy/0342-power-of-four/Python/0342-power-of-four.py",
           "sha": "fe20afb960964981fa12e505c76ab60783cf94b7",
-          "lastSyncedAt": "2026-11-15T03:48:57.521Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -174,16 +174,16 @@
       "problemName": "0389-find-the-difference",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-the-difference/",
-      "folderPath": "LeetCode-Solutions/0389-find-the-difference/",
-      "readmePath": "LeetCode-Solutions/0389-find-the-difference/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0389-find-the-difference/",
+      "readmePath": "LeetCode-Solutions/Easy/0389-find-the-difference/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0389-find-the-difference.py",
-          "path": "LeetCode-Solutions/0389-find-the-difference/0389-find-the-difference.py",
+          "path": "LeetCode-Solutions/Easy/0389-find-the-difference/Python/0389-find-the-difference.py",
           "sha": "fe705b4557229945476047e23edad8aa892650f9",
-          "lastSyncedAt": "2026-11-15T03:48:05.002Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -194,16 +194,16 @@
       "problemName": "0461-hamming-distance",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/hamming-distance/",
-      "folderPath": "LeetCode-Solutions/0461-hamming-distance/",
-      "readmePath": "LeetCode-Solutions/0461-hamming-distance/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0461-hamming-distance/",
+      "readmePath": "LeetCode-Solutions/Easy/0461-hamming-distance/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0461-hamming-distance.py",
-          "path": "LeetCode-Solutions/0461-hamming-distance/0461-hamming-distance.py",
+          "path": "LeetCode-Solutions/Easy/0461-hamming-distance/Python/0461-hamming-distance.py",
           "sha": "bc02cecd697c8320a7882eb92968990f6c094e3f",
-          "lastSyncedAt": "2026-11-15T03:47:48.927Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -214,16 +214,16 @@
       "problemName": "0476-number-complement",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/number-complement/",
-      "folderPath": "LeetCode-Solutions/0476-number-complement/",
-      "readmePath": "LeetCode-Solutions/0476-number-complement/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0476-number-complement/",
+      "readmePath": "LeetCode-Solutions/Easy/0476-number-complement/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0476-number-complement.py",
-          "path": "LeetCode-Solutions/0476-number-complement/0476-number-complement.py",
+          "path": "LeetCode-Solutions/Easy/0476-number-complement/Python/0476-number-complement.py",
           "sha": "16c637a4e005f5a9753d5fb1118b85c4435b98af",
-          "lastSyncedAt": "2026-11-15T03:47:19.541Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -241,9 +241,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "1009-complement-of-base-10-integer.py",
-          "path": "LeetCode-Solutions/1009-complement-of-base-10-integer/1009-complement-of-base-10-integer.py",
+          "path": "LeetCode-Solutions/Easy/1009-complement-of-base-10-integer/Python/1009-complement-of-base-10-integer.py",
           "sha": "a1a39bb870a9909e1b47b5389a9a7269878cc55a",
-          "lastSyncedAt": "2026-11-15T03:54:21.323Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -254,16 +254,16 @@
       "problemName": "3954-sum-of-compatible-numbers-in-range-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i/",
-      "folderPath": "LeetCode-Solutions/3954-sum-of-compatible-numbers-in-range-i/",
-      "readmePath": "LeetCode-Solutions/3954-sum-of-compatible-numbers-in-range-i/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3954-sum-of-compatible-numbers-in-range-i/",
+      "readmePath": "LeetCode-Solutions/Easy/3954-sum-of-compatible-numbers-in-range-i/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3954-sum-of-compatible-numbers-in-range-i.py",
-          "path": "LeetCode-Solutions/3954-sum-of-compatible-numbers-in-range-i/3954-sum-of-compatible-numbers-in-range-i.py",
+          "path": "LeetCode-Solutions/Easy/3954-sum-of-compatible-numbers-in-range-i/Python/3954-sum-of-compatible-numbers-in-range-i.py",
           "sha": "159df5633e0d1a394c5b338f5dbc6ea0ed988032",
-          "lastSyncedAt": "2026-11-15T03:50:26.114Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-15T03:47:01.317Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "860",
@@ -14,16 +14,16 @@
       "problemName": "0860-lemonade-change",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
-      "folderPath": "LeetCode-Solutions/0860-lemonade-change/",
-      "readmePath": "LeetCode-Solutions/0860-lemonade-change/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0860-lemonade-change/",
+      "readmePath": "LeetCode-Solutions/Easy/0860-lemonade-change/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0860-lemonade-change.py",
-          "path": "LeetCode-Solutions/0860-lemonade-change/0860-lemonade-change.py",
+          "path": "LeetCode-Solutions/Easy/0860-lemonade-change/Python/0860-lemonade-change.py",
           "sha": "5a897c35da208e01cc217ae9f607b51f3c149bcb",
-          "lastSyncedAt": "2026-11-15T03:45:30.507Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -34,16 +34,16 @@
       "problemName": "4014-minimum-total-price-after-applying-discounts",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/minimum-total-price-after-applying-discounts/",
-      "folderPath": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/",
-      "readmePath": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/README.md",
+      "folderPath": "LeetCode-Solutions/Medium/4014-minimum-total-price-after-applying-discounts/",
+      "readmePath": "LeetCode-Solutions/Medium/4014-minimum-total-price-after-applying-discounts/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "4014-minimum-total-price-after-applying-discounts.py",
-          "path": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/4014-minimum-total-price-after-applying-discounts.py",
+          "path": "LeetCode-Solutions/Medium/4014-minimum-total-price-after-applying-discounts/Python/4014-minimum-total-price-after-applying-discounts.py",
           "sha": "ef7f2822088b26dab8e34e995289626271756ab5",
-          "lastSyncedAt": "2026-11-15T03:47:01.317Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

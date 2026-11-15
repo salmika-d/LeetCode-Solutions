@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-11-15T03:46:16.598Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "20",
@@ -14,16 +14,16 @@
       "problemName": "0020-valid-parentheses",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/valid-parentheses/",
-      "folderPath": "LeetCode-Solutions/0020-valid-parentheses/",
-      "readmePath": "LeetCode-Solutions/0020-valid-parentheses/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0020-valid-parentheses/",
+      "readmePath": "LeetCode-Solutions/Easy/0020-valid-parentheses/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0020-valid-parentheses.py",
-          "path": "LeetCode-Solutions/0020-valid-parentheses/0020-valid-parentheses.py",
+          "path": "LeetCode-Solutions/Easy/0020-valid-parentheses/Python/0020-valid-parentheses.py",
           "sha": "0a5ebf6e1a6ee9c8a84cce018e5edd7543ff41fb",
-          "lastSyncedAt": "2026-11-15T03:45:56.281Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -34,16 +34,16 @@
       "problemName": "1614-maximum-nesting-depth-of-the-parentheses",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
-      "folderPath": "LeetCode-Solutions/1614-maximum-nesting-depth-of-the-parentheses/",
-      "readmePath": "LeetCode-Solutions/1614-maximum-nesting-depth-of-the-parentheses/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/",
+      "readmePath": "LeetCode-Solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.py",
-          "path": "LeetCode-Solutions/1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.py",
+          "path": "LeetCode-Solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/Python/1614-maximum-nesting-depth-of-the-parentheses.py",
           "sha": "ae31d9aa4dff91a65fc3d492063383aa653163ef",
-          "lastSyncedAt": "2026-11-15T03:46:16.598Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

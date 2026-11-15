@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-15T03:52:52.695Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "67",
@@ -14,16 +14,16 @@
       "problemName": "0067-add-binary",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
-      "folderPath": "LeetCode-Solutions/0067-add-binary/",
-      "readmePath": "LeetCode-Solutions/0067-add-binary/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0067-add-binary/",
+      "readmePath": "LeetCode-Solutions/Easy/0067-add-binary/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0067-add-binary.py",
-          "path": "LeetCode-Solutions/0067-add-binary/0067-add-binary.py",
+          "path": "LeetCode-Solutions/Easy/0067-add-binary/Python/0067-add-binary.py",
           "sha": "266e41d5bf88b7e11e0137143112e4a09fd29e37",
-          "lastSyncedAt": "2026-11-15T03:52:52.695Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -34,16 +34,16 @@
       "problemName": "0258-add-digits",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
-      "folderPath": "LeetCode-Solutions/0258-add-digits/",
-      "readmePath": "LeetCode-Solutions/0258-add-digits/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0258-add-digits/",
+      "readmePath": "LeetCode-Solutions/Easy/0258-add-digits/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0258-add-digits.py",
-          "path": "LeetCode-Solutions/0258-add-digits/0258-add-digits.py",
+          "path": "LeetCode-Solutions/Easy/0258-add-digits/Python/0258-add-digits.py",
           "sha": "c4469ea7822df065b8eb087fa5c0f3523f0de88b",
-          "lastSyncedAt": "2026-11-15T03:49:16.479Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -54,16 +54,16 @@
       "problemName": "0412-fizz-buzz",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
-      "folderPath": "LeetCode-Solutions/0412-fizz-buzz/",
-      "readmePath": "LeetCode-Solutions/0412-fizz-buzz/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0412-fizz-buzz/",
+      "readmePath": "LeetCode-Solutions/Easy/0412-fizz-buzz/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0412-fizz-buzz.py",
-          "path": "LeetCode-Solutions/0412-fizz-buzz/0412-fizz-buzz.py",
+          "path": "LeetCode-Solutions/Easy/0412-fizz-buzz/Python/0412-fizz-buzz.py",
           "sha": "624af4e7a86d753a29fd948d157c482811859aef",
-          "lastSyncedAt": "2026-11-15T03:52:18.446Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "problemName": "0415-add-strings",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
-      "folderPath": "LeetCode-Solutions/0415-add-strings/",
-      "readmePath": "LeetCode-Solutions/0415-add-strings/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0415-add-strings/",
+      "readmePath": "LeetCode-Solutions/Easy/0415-add-strings/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0415-add-strings.py",
-          "path": "LeetCode-Solutions/0415-add-strings/0415-add-strings.py",
+          "path": "LeetCode-Solutions/Easy/0415-add-strings/Python/0415-add-strings.py",
           "sha": "2a9e2993390117a0f6fff1ea8d66146079359fd4",
-          "lastSyncedAt": "2026-11-15T03:47:56.099Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -94,16 +94,16 @@
       "problemName": "0495-teemo-attacking",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/teemo-attacking/",
-      "folderPath": "LeetCode-Solutions/0495-teemo-attacking/",
-      "readmePath": "LeetCode-Solutions/0495-teemo-attacking/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0495-teemo-attacking/",
+      "readmePath": "LeetCode-Solutions/Easy/0495-teemo-attacking/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0495-teemo-attacking.py",
-          "path": "LeetCode-Solutions/0495-teemo-attacking/0495-teemo-attacking.py",
+          "path": "LeetCode-Solutions/Easy/0495-teemo-attacking/Python/0495-teemo-attacking.py",
           "sha": "bb19c0a82b229abe0df707e7aa70cfd62fe8cf07",
-          "lastSyncedAt": "2026-11-15T03:47:23.138Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -114,16 +114,16 @@
       "problemName": "3498-reverse-degree-of-a-string",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
-      "folderPath": "LeetCode-Solutions/3498-reverse-degree-of-a-string/",
-      "readmePath": "LeetCode-Solutions/3498-reverse-degree-of-a-string/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3498-reverse-degree-of-a-string/",
+      "readmePath": "LeetCode-Solutions/Easy/3498-reverse-degree-of-a-string/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3498-reverse-degree-of-a-string.py",
-          "path": "LeetCode-Solutions/3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
+          "path": "LeetCode-Solutions/Easy/3498-reverse-degree-of-a-string/Python/3498-reverse-degree-of-a-string.py",
           "sha": "672abdc273418e1443c76a7491855460db955194",
-          "lastSyncedAt": "2026-11-15T03:44:54.825Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

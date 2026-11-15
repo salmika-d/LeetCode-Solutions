@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:53:52.752Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "9",
@@ -21,9 +21,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0009-palindrome-number.py",
-          "path": "LeetCode-Solutions/0009-palindrome-number/0009-palindrome-number.py",
+          "path": "LeetCode-Solutions/Easy/0009-palindrome-number/Python/0009-palindrome-number.py",
           "sha": "b19e6bb90c375aef92955ab1f3b88d7f62ce59bb",
-          "lastSyncedAt": "2026-11-15T03:53:44.726Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -41,9 +41,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0013-roman-to-integer.py",
-          "path": "LeetCode-Solutions/0013-roman-to-integer/0013-roman-to-integer.py",
+          "path": "LeetCode-Solutions/Easy/0013-roman-to-integer/Python/0013-roman-to-integer.py",
           "sha": "ce2298771aaef0b190c4b1ef8f3af55d04d63f23",
-          "lastSyncedAt": "2026-11-15T03:53:52.752Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -54,16 +54,16 @@
       "problemName": "0066-plus-one",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
-      "folderPath": "LeetCode-Solutions/0066-plus-one/",
-      "readmePath": "LeetCode-Solutions/0066-plus-one/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0066-plus-one/",
+      "readmePath": "LeetCode-Solutions/Easy/0066-plus-one/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0066-plus-one.py",
-          "path": "LeetCode-Solutions/0066-plus-one/0066-plus-one.py",
+          "path": "LeetCode-Solutions/Easy/0066-plus-one/Python/0066-plus-one.py",
           "sha": "41364d2395aebc6e22f340f05925891055ad19c8",
-          "lastSyncedAt": "2026-11-15T03:53:02.337Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "problemName": "0067-add-binary",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
-      "folderPath": "LeetCode-Solutions/0067-add-binary/",
-      "readmePath": "LeetCode-Solutions/0067-add-binary/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0067-add-binary/",
+      "readmePath": "LeetCode-Solutions/Easy/0067-add-binary/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0067-add-binary.py",
-          "path": "LeetCode-Solutions/0067-add-binary/0067-add-binary.py",
+          "path": "LeetCode-Solutions/Easy/0067-add-binary/Python/0067-add-binary.py",
           "sha": "266e41d5bf88b7e11e0137143112e4a09fd29e37",
-          "lastSyncedAt": "2026-11-15T03:52:52.695Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -94,16 +94,16 @@
       "problemName": "0070-climbing-stairs",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
-      "folderPath": "LeetCode-Solutions/0070-climbing-stairs/",
-      "readmePath": "LeetCode-Solutions/0070-climbing-stairs/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0070-climbing-stairs/",
+      "readmePath": "LeetCode-Solutions/Easy/0070-climbing-stairs/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0070-climbing-stairs.py",
-          "path": "LeetCode-Solutions/0070-climbing-stairs/0070-climbing-stairs.py",
+          "path": "LeetCode-Solutions/Easy/0070-climbing-stairs/Python/0070-climbing-stairs.py",
           "sha": "354bf0d6daf81ece70324239a1e828c13da75b89",
-          "lastSyncedAt": "2026-11-15T03:52:44.755Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -114,16 +114,16 @@
       "problemName": "0168-excel-sheet-column-title",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-title/",
-      "folderPath": "LeetCode-Solutions/0168-excel-sheet-column-title/",
-      "readmePath": "LeetCode-Solutions/0168-excel-sheet-column-title/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0168-excel-sheet-column-title/",
+      "readmePath": "LeetCode-Solutions/Easy/0168-excel-sheet-column-title/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0168-excel-sheet-column-title.py",
-          "path": "LeetCode-Solutions/0168-excel-sheet-column-title/0168-excel-sheet-column-title.py",
+          "path": "LeetCode-Solutions/Easy/0168-excel-sheet-column-title/Python/0168-excel-sheet-column-title.py",
           "sha": "913adcba994c6368f017ca28cada00ad827c0f73",
-          "lastSyncedAt": "2026-11-15T03:51:11.798Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -134,16 +134,16 @@
       "problemName": "0171-excel-sheet-column-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
-      "folderPath": "LeetCode-Solutions/0171-excel-sheet-column-number/",
-      "readmePath": "LeetCode-Solutions/0171-excel-sheet-column-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0171-excel-sheet-column-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0171-excel-sheet-column-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0171-excel-sheet-column-number.py",
-          "path": "LeetCode-Solutions/0171-excel-sheet-column-number/0171-excel-sheet-column-number.py",
+          "path": "LeetCode-Solutions/Easy/0171-excel-sheet-column-number/Python/0171-excel-sheet-column-number.py",
           "sha": "d0bb0f543c5382993047178c58a72620afec43d3",
-          "lastSyncedAt": "2026-11-15T03:50:01.240Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -154,16 +154,16 @@
       "problemName": "0202-happy-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
-      "folderPath": "LeetCode-Solutions/0202-happy-number/",
-      "readmePath": "LeetCode-Solutions/0202-happy-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0202-happy-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0202-happy-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0202-happy-number.py",
-          "path": "LeetCode-Solutions/0202-happy-number/0202-happy-number.py",
+          "path": "LeetCode-Solutions/Easy/0202-happy-number/Python/0202-happy-number.py",
           "sha": "f58a8c6e673a23a0bd71a3e8834b33474c5b8883",
-          "lastSyncedAt": "2026-11-15T03:52:25.957Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -174,16 +174,16 @@
       "problemName": "0231-power-of-two",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
-      "folderPath": "LeetCode-Solutions/0231-power-of-two/",
-      "readmePath": "LeetCode-Solutions/0231-power-of-two/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0231-power-of-two/",
+      "readmePath": "LeetCode-Solutions/Easy/0231-power-of-two/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0231-power-of-two.py",
-          "path": "LeetCode-Solutions/0231-power-of-two/0231-power-of-two.py",
+          "path": "LeetCode-Solutions/Easy/0231-power-of-two/Python/0231-power-of-two.py",
           "sha": "cf7e7ac6c0e178a5bc3890d9a1d8b708f5ddc611",
-          "lastSyncedAt": "2026-11-15T03:49:24.790Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -194,16 +194,16 @@
       "problemName": "0258-add-digits",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
-      "folderPath": "LeetCode-Solutions/0258-add-digits/",
-      "readmePath": "LeetCode-Solutions/0258-add-digits/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0258-add-digits/",
+      "readmePath": "LeetCode-Solutions/Easy/0258-add-digits/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0258-add-digits.py",
-          "path": "LeetCode-Solutions/0258-add-digits/0258-add-digits.py",
+          "path": "LeetCode-Solutions/Easy/0258-add-digits/Python/0258-add-digits.py",
           "sha": "c4469ea7822df065b8eb087fa5c0f3523f0de88b",
-          "lastSyncedAt": "2026-11-15T03:49:16.479Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -214,16 +214,16 @@
       "problemName": "0268-missing-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
-      "folderPath": "LeetCode-Solutions/0268-missing-number/",
-      "readmePath": "LeetCode-Solutions/0268-missing-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0268-missing-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0268-missing-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0268-missing-number.py",
-          "path": "LeetCode-Solutions/0268-missing-number/0268-missing-number.py",
+          "path": "LeetCode-Solutions/Easy/0268-missing-number/Python/0268-missing-number.py",
           "sha": "f5b7822532a528087be476dfdb25d9c6f0f6d89c",
-          "lastSyncedAt": "2026-11-15T03:53:16.279Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -234,16 +234,16 @@
       "problemName": "0292-nim-game",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/nim-game/",
-      "folderPath": "LeetCode-Solutions/0292-nim-game/",
-      "readmePath": "LeetCode-Solutions/0292-nim-game/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0292-nim-game/",
+      "readmePath": "LeetCode-Solutions/Easy/0292-nim-game/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0292-nim-game.py",
-          "path": "LeetCode-Solutions/0292-nim-game/0292-nim-game.py",
+          "path": "LeetCode-Solutions/Easy/0292-nim-game/Python/0292-nim-game.py",
           "sha": "926ec589733103a1d67d2caf54c2722ba04c3908",
-          "lastSyncedAt": "2026-11-15T03:51:37.482Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -254,16 +254,16 @@
       "problemName": "0326-power-of-three",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
-      "folderPath": "LeetCode-Solutions/0326-power-of-three/",
-      "readmePath": "LeetCode-Solutions/0326-power-of-three/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0326-power-of-three/",
+      "readmePath": "LeetCode-Solutions/Easy/0326-power-of-three/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0326-power-of-three.py",
-          "path": "LeetCode-Solutions/0326-power-of-three/0326-power-of-three.py",
+          "path": "LeetCode-Solutions/Easy/0326-power-of-three/Python/0326-power-of-three.py",
           "sha": "b183a22d5e27783802e8fdb79142426187e3b38f",
-          "lastSyncedAt": "2026-11-15T03:49:06.461Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -274,16 +274,16 @@
       "problemName": "0342-power-of-four",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
-      "folderPath": "LeetCode-Solutions/0342-power-of-four/",
-      "readmePath": "LeetCode-Solutions/0342-power-of-four/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0342-power-of-four/",
+      "readmePath": "LeetCode-Solutions/Easy/0342-power-of-four/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0342-power-of-four.py",
-          "path": "LeetCode-Solutions/0342-power-of-four/0342-power-of-four.py",
+          "path": "LeetCode-Solutions/Easy/0342-power-of-four/Python/0342-power-of-four.py",
           "sha": "fe20afb960964981fa12e505c76ab60783cf94b7",
-          "lastSyncedAt": "2026-11-15T03:48:57.521Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -294,16 +294,16 @@
       "problemName": "0412-fizz-buzz",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
-      "folderPath": "LeetCode-Solutions/0412-fizz-buzz/",
-      "readmePath": "LeetCode-Solutions/0412-fizz-buzz/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0412-fizz-buzz/",
+      "readmePath": "LeetCode-Solutions/Easy/0412-fizz-buzz/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0412-fizz-buzz.py",
-          "path": "LeetCode-Solutions/0412-fizz-buzz/0412-fizz-buzz.py",
+          "path": "LeetCode-Solutions/Easy/0412-fizz-buzz/Python/0412-fizz-buzz.py",
           "sha": "624af4e7a86d753a29fd948d157c482811859aef",
-          "lastSyncedAt": "2026-11-15T03:52:18.446Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -314,16 +314,16 @@
       "problemName": "0415-add-strings",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/add-strings/",
-      "folderPath": "LeetCode-Solutions/0415-add-strings/",
-      "readmePath": "LeetCode-Solutions/0415-add-strings/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0415-add-strings/",
+      "readmePath": "LeetCode-Solutions/Easy/0415-add-strings/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0415-add-strings.py",
-          "path": "LeetCode-Solutions/0415-add-strings/0415-add-strings.py",
+          "path": "LeetCode-Solutions/Easy/0415-add-strings/Python/0415-add-strings.py",
           "sha": "2a9e2993390117a0f6fff1ea8d66146079359fd4",
-          "lastSyncedAt": "2026-11-15T03:47:56.099Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -334,16 +334,16 @@
       "problemName": "0836-rectangle-overlap",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/rectangle-overlap/",
-      "folderPath": "LeetCode-Solutions/0836-rectangle-overlap/",
-      "readmePath": "LeetCode-Solutions/0836-rectangle-overlap/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0836-rectangle-overlap/",
+      "readmePath": "LeetCode-Solutions/Easy/0836-rectangle-overlap/README.md",
       "solutions": [
         {
           "language": "Java",
           "extension": ".java",
           "filename": "0836-rectangle-overlap.java",
-          "path": "LeetCode-Solutions/0836-rectangle-overlap/0836-rectangle-overlap.java",
+          "path": "LeetCode-Solutions/Easy/0836-rectangle-overlap/Java/0836-rectangle-overlap.java",
           "sha": "ad967a5126423b6092b27cbae905d85c05a0046e",
-          "lastSyncedAt": "2026-11-15T03:46:27.849Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -354,16 +354,16 @@
       "problemName": "2409-count-days-spent-together",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
-      "folderPath": "LeetCode-Solutions/2409-count-days-spent-together/",
-      "readmePath": "LeetCode-Solutions/2409-count-days-spent-together/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/2409-count-days-spent-together/",
+      "readmePath": "LeetCode-Solutions/Easy/2409-count-days-spent-together/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "2409-count-days-spent-together.py",
-          "path": "LeetCode-Solutions/2409-count-days-spent-together/2409-count-days-spent-together.py",
+          "path": "LeetCode-Solutions/Easy/2409-count-days-spent-together/Python/2409-count-days-spent-together.py",
           "sha": "1d6cc17dd3c8b1ea346a0201ae4324a596fe9271",
-          "lastSyncedAt": "2026-11-15T03:45:24.031Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -374,16 +374,16 @@
       "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
-      "folderPath": "LeetCode-Solutions/3550-smallest-index-with-digit-sum-equal-to-index/",
-      "readmePath": "LeetCode-Solutions/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "LeetCode-Solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
       "solutions": [
         {
           "language": "Java",
           "extension": ".java",
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
-          "path": "LeetCode-Solutions/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
+          "path": "LeetCode-Solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/Java/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "5c65fe8dd68ed93187dbdd23cd267a9812f8a592",
-          "lastSyncedAt": "2026-11-15T03:46:23.219Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -394,16 +394,16 @@
       "problemName": "3870-count-commas-in-range",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
-      "folderPath": "LeetCode-Solutions/3870-count-commas-in-range/",
-      "readmePath": "LeetCode-Solutions/3870-count-commas-in-range/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3870-count-commas-in-range/",
+      "readmePath": "LeetCode-Solutions/Easy/3870-count-commas-in-range/README.md",
       "solutions": [
         {
           "language": "Java",
           "extension": ".java",
           "filename": "3870-count-commas-in-range.java",
-          "path": "LeetCode-Solutions/3870-count-commas-in-range/3870-count-commas-in-range.java",
+          "path": "LeetCode-Solutions/Easy/3870-count-commas-in-range/Java/3870-count-commas-in-range.java",
           "sha": "7db90339f101e5c0d72bf6739f0c484e5f429a39",
-          "lastSyncedAt": "2026-11-15T03:46:33.483Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -414,16 +414,16 @@
       "problemName": "3875-construct-uniform-parity-array-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
-      "folderPath": "LeetCode-Solutions/3875-construct-uniform-parity-array-i/",
-      "readmePath": "LeetCode-Solutions/3875-construct-uniform-parity-array-i/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3875-construct-uniform-parity-array-i/",
+      "readmePath": "LeetCode-Solutions/Easy/3875-construct-uniform-parity-array-i/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3875-construct-uniform-parity-array-i.py",
-          "path": "LeetCode-Solutions/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
+          "path": "LeetCode-Solutions/Easy/3875-construct-uniform-parity-array-i/Python/3875-construct-uniform-parity-array-i.py",
           "sha": "925d02eb778ab14a3ab83fdc1e57340bde33b89f",
-          "lastSyncedAt": "2026-11-15T03:46:48.533Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -434,16 +434,16 @@
       "problemName": "3945-digit-frequency-score",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
-      "folderPath": "LeetCode-Solutions/3945-digit-frequency-score/",
-      "readmePath": "LeetCode-Solutions/3945-digit-frequency-score/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3945-digit-frequency-score/",
+      "readmePath": "LeetCode-Solutions/Easy/3945-digit-frequency-score/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3945-digit-frequency-score.py",
-          "path": "LeetCode-Solutions/3945-digit-frequency-score/3945-digit-frequency-score.py",
+          "path": "LeetCode-Solutions/Easy/3945-digit-frequency-score/Python/3945-digit-frequency-score.py",
           "sha": "d345eb019758dc4b7817e050359a1afff527c28f",
-          "lastSyncedAt": "2026-11-15T03:46:11.216Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

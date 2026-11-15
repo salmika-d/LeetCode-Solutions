@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-15T03:47:28.967Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "21",
@@ -14,16 +14,16 @@
       "problemName": "0021-merge-two-sorted-lists",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
-      "folderPath": "LeetCode-Solutions/0021-merge-two-sorted-lists/",
-      "readmePath": "LeetCode-Solutions/0021-merge-two-sorted-lists/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0021-merge-two-sorted-lists/",
+      "readmePath": "LeetCode-Solutions/Easy/0021-merge-two-sorted-lists/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0021-merge-two-sorted-lists.py",
-          "path": "LeetCode-Solutions/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
+          "path": "LeetCode-Solutions/Easy/0021-merge-two-sorted-lists/Python/0021-merge-two-sorted-lists.py",
           "sha": "4567e1cce9f9ca2c2ff8b41bdd6ec60918b2f2da",
-          "lastSyncedAt": "2026-11-15T03:47:28.967Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -34,16 +34,16 @@
       "problemName": "0083-remove-duplicates-from-sorted-list",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
-      "folderPath": "LeetCode-Solutions/0083-remove-duplicates-from-sorted-list/",
-      "readmePath": "LeetCode-Solutions/0083-remove-duplicates-from-sorted-list/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0083-remove-duplicates-from-sorted-list/",
+      "readmePath": "LeetCode-Solutions/Easy/0083-remove-duplicates-from-sorted-list/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0083-remove-duplicates-from-sorted-list.py",
-          "path": "LeetCode-Solutions/0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.py",
+          "path": "LeetCode-Solutions/Easy/0083-remove-duplicates-from-sorted-list/Python/0083-remove-duplicates-from-sorted-list.py",
           "sha": "42f1198e827a98a61016c8aa989ffeb9aedede10",
-          "lastSyncedAt": "2026-11-15T03:47:10.547Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

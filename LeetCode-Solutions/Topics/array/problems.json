@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:54:13.220Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "1",
@@ -14,16 +14,16 @@
       "problemName": "0001-two-sum",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
-      "folderPath": "LeetCode-Solutions/0001-two-sum/",
-      "readmePath": "LeetCode-Solutions/0001-two-sum/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0001-two-sum/",
+      "readmePath": "LeetCode-Solutions/Easy/0001-two-sum/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0001-two-sum.py",
-          "path": "LeetCode-Solutions/0001-two-sum/0001-two-sum.py",
+          "path": "LeetCode-Solutions/Easy/0001-two-sum/Python/0001-two-sum.py",
           "sha": "7019b34d5d361283593e0e665069ed8ff322e625",
-          "lastSyncedAt": "2026-11-15T03:44:58.556Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -41,9 +41,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0014-longest-common-prefix.py",
-          "path": "LeetCode-Solutions/0014-longest-common-prefix/0014-longest-common-prefix.py",
+          "path": "LeetCode-Solutions/Easy/0014-longest-common-prefix/Python/0014-longest-common-prefix.py",
           "sha": "453b5e422ec49ed5f55ef988093eba3eafc9ed95",
-          "lastSyncedAt": "2026-11-15T03:54:13.220Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -54,16 +54,16 @@
       "problemName": "0026-remove-duplicates-from-sorted-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
-      "folderPath": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/",
-      "readmePath": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0026-remove-duplicates-from-sorted-array/",
+      "readmePath": "LeetCode-Solutions/Easy/0026-remove-duplicates-from-sorted-array/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0026-remove-duplicates-from-sorted-array.py",
-          "path": "LeetCode-Solutions/0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.py",
+          "path": "LeetCode-Solutions/Easy/0026-remove-duplicates-from-sorted-array/Python/0026-remove-duplicates-from-sorted-array.py",
           "sha": "53a18f274d85e79c132391fd8c24828eb8d6b788",
-          "lastSyncedAt": "2026-11-15T03:53:31.351Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -81,9 +81,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0027-remove-element.py",
-          "path": "LeetCode-Solutions/0027-remove-element/0027-remove-element.py",
+          "path": "LeetCode-Solutions/Easy/0027-remove-element/Python/0027-remove-element.py",
           "sha": "06690dc0d05c693148c04a1893920f501fd81c76",
-          "lastSyncedAt": "2026-11-15T03:53:47.839Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -101,9 +101,9 @@
           "language": "Python",
           "extension": ".py",
           "filename": "0035-search-insert-position.py",
-          "path": "LeetCode-Solutions/0035-search-insert-position/0035-search-insert-position.py",
+          "path": "LeetCode-Solutions/Easy/0035-search-insert-position/Python/0035-search-insert-position.py",
           "sha": "cea1addbde6a185a41c89efe422338034ed04f52",
-          "lastSyncedAt": "2026-11-15T03:53:40.095Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -114,16 +114,16 @@
       "problemName": "0049-group-anagrams",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
-      "folderPath": "LeetCode-Solutions/0049-group-anagrams/",
-      "readmePath": "LeetCode-Solutions/0049-group-anagrams/README.md",
+      "folderPath": "LeetCode-Solutions/Medium/0049-group-anagrams/",
+      "readmePath": "LeetCode-Solutions/Medium/0049-group-anagrams/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0049-group-anagrams.py",
-          "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
+          "path": "LeetCode-Solutions/Medium/0049-group-anagrams/Python/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
-          "lastSyncedAt": "2026-11-15T03:45:42.874Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -134,16 +134,16 @@
       "problemName": "0066-plus-one",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
-      "folderPath": "LeetCode-Solutions/0066-plus-one/",
-      "readmePath": "LeetCode-Solutions/0066-plus-one/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0066-plus-one/",
+      "readmePath": "LeetCode-Solutions/Easy/0066-plus-one/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0066-plus-one.py",
-          "path": "LeetCode-Solutions/0066-plus-one/0066-plus-one.py",
+          "path": "LeetCode-Solutions/Easy/0066-plus-one/Python/0066-plus-one.py",
           "sha": "41364d2395aebc6e22f340f05925891055ad19c8",
-          "lastSyncedAt": "2026-11-15T03:53:02.337Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -154,16 +154,16 @@
       "problemName": "0088-merge-sorted-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/merge-sorted-array/",
-      "folderPath": "LeetCode-Solutions/0088-merge-sorted-array/",
-      "readmePath": "LeetCode-Solutions/0088-merge-sorted-array/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0088-merge-sorted-array/",
+      "readmePath": "LeetCode-Solutions/Easy/0088-merge-sorted-array/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0088-merge-sorted-array.py",
-          "path": "LeetCode-Solutions/0088-merge-sorted-array/0088-merge-sorted-array.py",
+          "path": "LeetCode-Solutions/Easy/0088-merge-sorted-array/Python/0088-merge-sorted-array.py",
           "sha": "5ba519f56a07d83cc0f31d7b137b6826026f3af7",
-          "lastSyncedAt": "2026-11-15T03:52:36.155Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -174,16 +174,16 @@
       "problemName": "0118-pascals-triangle",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle/",
-      "folderPath": "LeetCode-Solutions/0118-pascals-triangle/",
-      "readmePath": "LeetCode-Solutions/0118-pascals-triangle/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0118-pascals-triangle/",
+      "readmePath": "LeetCode-Solutions/Easy/0118-pascals-triangle/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0118-pascals-triangle.py",
-          "path": "LeetCode-Solutions/0118-pascals-triangle/0118-pascals-triangle.py",
+          "path": "LeetCode-Solutions/Easy/0118-pascals-triangle/Python/0118-pascals-triangle.py",
           "sha": "9cf44578c1ba9c0d1eda13be3d53084adc702144",
-          "lastSyncedAt": "2026-11-15T03:51:55.808Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -194,16 +194,16 @@
       "problemName": "0119-pascals-triangle-ii",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
-      "folderPath": "LeetCode-Solutions/0119-pascals-triangle-ii/",
-      "readmePath": "LeetCode-Solutions/0119-pascals-triangle-ii/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0119-pascals-triangle-ii/",
+      "readmePath": "LeetCode-Solutions/Easy/0119-pascals-triangle-ii/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0119-pascals-triangle-ii.py",
-          "path": "LeetCode-Solutions/0119-pascals-triangle-ii/0119-pascals-triangle-ii.py",
+          "path": "LeetCode-Solutions/Easy/0119-pascals-triangle-ii/Python/0119-pascals-triangle-ii.py",
           "sha": "bcf4cea22c6cc0bb301b0fc721b456a9f72b143a",
-          "lastSyncedAt": "2026-11-15T03:50:58.677Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -214,16 +214,16 @@
       "problemName": "0121-best-time-to-buy-and-sell-stock",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
-      "folderPath": "LeetCode-Solutions/0121-best-time-to-buy-and-sell-stock/",
-      "readmePath": "LeetCode-Solutions/0121-best-time-to-buy-and-sell-stock/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "LeetCode-Solutions/Easy/0121-best-time-to-buy-and-sell-stock/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0121-best-time-to-buy-and-sell-stock.py",
-          "path": "LeetCode-Solutions/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
+          "path": "LeetCode-Solutions/Easy/0121-best-time-to-buy-and-sell-stock/Python/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "576ab85bf3025ba646c5598b4ebbaa72472f45fb",
-          "lastSyncedAt": "2026-11-15T03:51:22.344Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -234,16 +234,16 @@
       "problemName": "0136-single-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/single-number/",
-      "folderPath": "LeetCode-Solutions/0136-single-number/",
-      "readmePath": "LeetCode-Solutions/0136-single-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0136-single-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0136-single-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0136-single-number.py",
-          "path": "LeetCode-Solutions/0136-single-number/0136-single-number.py",
+          "path": "LeetCode-Solutions/Easy/0136-single-number/Python/0136-single-number.py",
           "sha": "81c0314fa91f97e5fef96a33efd258840de14f67",
-          "lastSyncedAt": "2026-11-15T03:51:06.522Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -254,16 +254,16 @@
       "problemName": "0169-majority-element",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
-      "folderPath": "LeetCode-Solutions/0169-majority-element/",
-      "readmePath": "LeetCode-Solutions/0169-majority-element/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0169-majority-element/",
+      "readmePath": "LeetCode-Solutions/Easy/0169-majority-element/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0169-majority-element.py",
-          "path": "LeetCode-Solutions/0169-majority-element/0169-majority-element.py",
+          "path": "LeetCode-Solutions/Easy/0169-majority-element/Python/0169-majority-element.py",
           "sha": "2e6277ef48b4b75432340e696f3f525015d62bb5",
-          "lastSyncedAt": "2026-11-15T03:50:33.833Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -274,16 +274,16 @@
       "problemName": "0217-contains-duplicate",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
-      "folderPath": "LeetCode-Solutions/0217-contains-duplicate/",
-      "readmePath": "LeetCode-Solutions/0217-contains-duplicate/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0217-contains-duplicate/",
+      "readmePath": "LeetCode-Solutions/Easy/0217-contains-duplicate/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0217-contains-duplicate.py",
-          "path": "LeetCode-Solutions/0217-contains-duplicate/0217-contains-duplicate.py",
+          "path": "LeetCode-Solutions/Easy/0217-contains-duplicate/Python/0217-contains-duplicate.py",
           "sha": "f65697d09a261aa0d4cffd0aa64ad52d1604f7aa",
-          "lastSyncedAt": "2026-11-15T03:50:12.927Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -294,16 +294,16 @@
       "problemName": "0228-summary-ranges",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/summary-ranges/",
-      "folderPath": "LeetCode-Solutions/0228-summary-ranges/",
-      "readmePath": "LeetCode-Solutions/0228-summary-ranges/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0228-summary-ranges/",
+      "readmePath": "LeetCode-Solutions/Easy/0228-summary-ranges/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0228-summary-ranges.py",
-          "path": "LeetCode-Solutions/0228-summary-ranges/0228-summary-ranges.py",
+          "path": "LeetCode-Solutions/Easy/0228-summary-ranges/Python/0228-summary-ranges.py",
           "sha": "0f1c30cf83e4604064ea61241fd4f6ff368bf798",
-          "lastSyncedAt": "2026-11-15T03:49:44.909Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -314,16 +314,16 @@
       "problemName": "0268-missing-number",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
-      "folderPath": "LeetCode-Solutions/0268-missing-number/",
-      "readmePath": "LeetCode-Solutions/0268-missing-number/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0268-missing-number/",
+      "readmePath": "LeetCode-Solutions/Easy/0268-missing-number/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0268-missing-number.py",
-          "path": "LeetCode-Solutions/0268-missing-number/0268-missing-number.py",
+          "path": "LeetCode-Solutions/Easy/0268-missing-number/Python/0268-missing-number.py",
           "sha": "f5b7822532a528087be476dfdb25d9c6f0f6d89c",
-          "lastSyncedAt": "2026-11-15T03:53:16.279Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -334,16 +334,16 @@
       "problemName": "0283-move-zeroes",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
-      "folderPath": "LeetCode-Solutions/0283-move-zeroes/",
-      "readmePath": "LeetCode-Solutions/0283-move-zeroes/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0283-move-zeroes/",
+      "readmePath": "LeetCode-Solutions/Easy/0283-move-zeroes/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0283-move-zeroes.py",
-          "path": "LeetCode-Solutions/0283-move-zeroes/0283-move-zeroes.py",
+          "path": "LeetCode-Solutions/Easy/0283-move-zeroes/Python/0283-move-zeroes.py",
           "sha": "d544a2c75b5e5495f468a3a422b7d8c2a5ba2fb4",
-          "lastSyncedAt": "2026-11-15T03:51:31.539Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -354,16 +354,16 @@
       "problemName": "0349-intersection-of-two-arrays",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays/",
-      "folderPath": "LeetCode-Solutions/0349-intersection-of-two-arrays/",
-      "readmePath": "LeetCode-Solutions/0349-intersection-of-two-arrays/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0349-intersection-of-two-arrays/",
+      "readmePath": "LeetCode-Solutions/Easy/0349-intersection-of-two-arrays/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0349-intersection-of-two-arrays.py",
-          "path": "LeetCode-Solutions/0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
+          "path": "LeetCode-Solutions/Easy/0349-intersection-of-two-arrays/Python/0349-intersection-of-two-arrays.py",
           "sha": "d39ba8e8b8fbdbf7e8b8c96328fc34416c2f540e",
-          "lastSyncedAt": "2026-11-15T03:48:42.689Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -374,16 +374,16 @@
       "problemName": "0350-intersection-of-two-arrays-ii",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
-      "folderPath": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/",
-      "readmePath": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0350-intersection-of-two-arrays-ii/",
+      "readmePath": "LeetCode-Solutions/Easy/0350-intersection-of-two-arrays-ii/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0350-intersection-of-two-arrays-ii.py",
-          "path": "LeetCode-Solutions/0350-intersection-of-two-arrays-ii/0350-intersection-of-two-arrays-ii.py",
+          "path": "LeetCode-Solutions/Easy/0350-intersection-of-two-arrays-ii/Python/0350-intersection-of-two-arrays-ii.py",
           "sha": "45b095ba233783c85e3e002762b98aa3dea0e3c4",
-          "lastSyncedAt": "2026-11-15T03:48:30.340Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -394,16 +394,16 @@
       "problemName": "0448-find-all-numbers-disappeared-in-an-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
-      "folderPath": "LeetCode-Solutions/0448-find-all-numbers-disappeared-in-an-array/",
-      "readmePath": "LeetCode-Solutions/0448-find-all-numbers-disappeared-in-an-array/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0448-find-all-numbers-disappeared-in-an-array/",
+      "readmePath": "LeetCode-Solutions/Easy/0448-find-all-numbers-disappeared-in-an-array/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0448-find-all-numbers-disappeared-in-an-array.py",
-          "path": "LeetCode-Solutions/0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.py",
+          "path": "LeetCode-Solutions/Easy/0448-find-all-numbers-disappeared-in-an-array/Python/0448-find-all-numbers-disappeared-in-an-array.py",
           "sha": "03bbf90a114b4c0b2a870bea0240bf53a39302e8",
-          "lastSyncedAt": "2026-11-15T03:47:51.176Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -414,16 +414,16 @@
       "problemName": "0485-max-consecutive-ones",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/max-consecutive-ones/",
-      "folderPath": "LeetCode-Solutions/0485-max-consecutive-ones/",
-      "readmePath": "LeetCode-Solutions/0485-max-consecutive-ones/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0485-max-consecutive-ones/",
+      "readmePath": "LeetCode-Solutions/Easy/0485-max-consecutive-ones/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0485-max-consecutive-ones.py",
-          "path": "LeetCode-Solutions/0485-max-consecutive-ones/0485-max-consecutive-ones.py",
+          "path": "LeetCode-Solutions/Easy/0485-max-consecutive-ones/Python/0485-max-consecutive-ones.py",
           "sha": "5536aef00f25e574d565b3ade4d67865d28138c3",
-          "lastSyncedAt": "2026-11-15T03:47:45.440Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -434,16 +434,16 @@
       "problemName": "0495-teemo-attacking",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/teemo-attacking/",
-      "folderPath": "LeetCode-Solutions/0495-teemo-attacking/",
-      "readmePath": "LeetCode-Solutions/0495-teemo-attacking/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0495-teemo-attacking/",
+      "readmePath": "LeetCode-Solutions/Easy/0495-teemo-attacking/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0495-teemo-attacking.py",
-          "path": "LeetCode-Solutions/0495-teemo-attacking/0495-teemo-attacking.py",
+          "path": "LeetCode-Solutions/Easy/0495-teemo-attacking/Python/0495-teemo-attacking.py",
           "sha": "bb19c0a82b229abe0df707e7aa70cfd62fe8cf07",
-          "lastSyncedAt": "2026-11-15T03:47:23.138Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -454,16 +454,16 @@
       "problemName": "0496-next-greater-element-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/next-greater-element-i/",
-      "folderPath": "LeetCode-Solutions/0496-next-greater-element-i/",
-      "readmePath": "LeetCode-Solutions/0496-next-greater-element-i/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0496-next-greater-element-i/",
+      "readmePath": "LeetCode-Solutions/Easy/0496-next-greater-element-i/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0496-next-greater-element-i.py",
-          "path": "LeetCode-Solutions/0496-next-greater-element-i/0496-next-greater-element-i.py",
+          "path": "LeetCode-Solutions/Easy/0496-next-greater-element-i/Python/0496-next-greater-element-i.py",
           "sha": "a1f86a734f9068641ab9f6f955a37ab833c607c1",
-          "lastSyncedAt": "2026-11-15T03:47:33.784Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -474,16 +474,16 @@
       "problemName": "0500-keyboard-row",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/keyboard-row/",
-      "folderPath": "LeetCode-Solutions/0500-keyboard-row/",
-      "readmePath": "LeetCode-Solutions/0500-keyboard-row/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0500-keyboard-row/",
+      "readmePath": "LeetCode-Solutions/Easy/0500-keyboard-row/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0500-keyboard-row.py",
-          "path": "LeetCode-Solutions/0500-keyboard-row/0500-keyboard-row.py",
+          "path": "LeetCode-Solutions/Easy/0500-keyboard-row/Python/0500-keyboard-row.py",
           "sha": "0c27a33b0922a98c9c1cb3885c077a83a46c2a07",
-          "lastSyncedAt": "2026-11-15T03:46:03.967Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -494,16 +494,16 @@
       "problemName": "0575-distribute-candies",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/distribute-candies/",
-      "folderPath": "LeetCode-Solutions/0575-distribute-candies/",
-      "readmePath": "LeetCode-Solutions/0575-distribute-candies/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0575-distribute-candies/",
+      "readmePath": "LeetCode-Solutions/Easy/0575-distribute-candies/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0575-distribute-candies.py",
-          "path": "LeetCode-Solutions/0575-distribute-candies/0575-distribute-candies.py",
+          "path": "LeetCode-Solutions/Easy/0575-distribute-candies/Python/0575-distribute-candies.py",
           "sha": "38a596cce5afdcadcb9c0533cee9212238de503e",
-          "lastSyncedAt": "2026-11-15T03:45:51.683Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -514,16 +514,16 @@
       "problemName": "0860-lemonade-change",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/lemonade-change/",
-      "folderPath": "LeetCode-Solutions/0860-lemonade-change/",
-      "readmePath": "LeetCode-Solutions/0860-lemonade-change/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0860-lemonade-change/",
+      "readmePath": "LeetCode-Solutions/Easy/0860-lemonade-change/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0860-lemonade-change.py",
-          "path": "LeetCode-Solutions/0860-lemonade-change/0860-lemonade-change.py",
+          "path": "LeetCode-Solutions/Easy/0860-lemonade-change/Python/0860-lemonade-change.py",
           "sha": "5a897c35da208e01cc217ae9f607b51f3c149bcb",
-          "lastSyncedAt": "2026-11-15T03:45:30.507Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -534,16 +534,16 @@
       "problemName": "1267-count-servers-that-communicate",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/count-servers-that-communicate/",
-      "folderPath": "LeetCode-Solutions/1267-count-servers-that-communicate/",
-      "readmePath": "LeetCode-Solutions/1267-count-servers-that-communicate/README.md",
+      "folderPath": "LeetCode-Solutions/Medium/1267-count-servers-that-communicate/",
+      "readmePath": "LeetCode-Solutions/Medium/1267-count-servers-that-communicate/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "1267-count-servers-that-communicate.py",
-          "path": "LeetCode-Solutions/1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
+          "path": "LeetCode-Solutions/Medium/1267-count-servers-that-communicate/Python/1267-count-servers-that-communicate.py",
           "sha": "90e9183f3fa0122813028dcff72df98312a159b6",
-          "lastSyncedAt": "2026-11-15T03:45:11.665Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -554,16 +554,16 @@
       "problemName": "1385-find-the-distance-value-between-two-arrays",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/",
-      "folderPath": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/",
-      "readmePath": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/1385-find-the-distance-value-between-two-arrays/",
+      "readmePath": "LeetCode-Solutions/Easy/1385-find-the-distance-value-between-two-arrays/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "1385-find-the-distance-value-between-two-arrays.py",
-          "path": "LeetCode-Solutions/1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.py",
+          "path": "LeetCode-Solutions/Easy/1385-find-the-distance-value-between-two-arrays/Python/1385-find-the-distance-value-between-two-arrays.py",
           "sha": "6c5d4a03e0ec2d482bb62a7fc55c26ba6d8aa591",
-          "lastSyncedAt": "2026-11-15T03:45:03.067Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -574,16 +574,16 @@
       "problemName": "2089-find-target-indices-after-sorting-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/find-target-indices-after-sorting-array/",
-      "folderPath": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/",
-      "readmePath": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/2089-find-target-indices-after-sorting-array/",
+      "readmePath": "LeetCode-Solutions/Easy/2089-find-target-indices-after-sorting-array/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "2089-find-target-indices-after-sorting-array.py",
-          "path": "LeetCode-Solutions/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py",
+          "path": "LeetCode-Solutions/Easy/2089-find-target-indices-after-sorting-array/Python/2089-find-target-indices-after-sorting-array.py",
           "sha": "abb52052cf8de9013894979db80ae3af58ee7a73",
-          "lastSyncedAt": "2026-11-15T03:45:36.127Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -594,16 +594,16 @@
       "problemName": "3550-smallest-index-with-digit-sum-equal-to-index",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/",
-      "folderPath": "LeetCode-Solutions/3550-smallest-index-with-digit-sum-equal-to-index/",
-      "readmePath": "LeetCode-Solutions/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/",
+      "readmePath": "LeetCode-Solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/README.md",
       "solutions": [
         {
           "language": "Java",
           "extension": ".java",
           "filename": "3550-smallest-index-with-digit-sum-equal-to-index.java",
-          "path": "LeetCode-Solutions/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
+          "path": "LeetCode-Solutions/Easy/3550-smallest-index-with-digit-sum-equal-to-index/Java/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "5c65fe8dd68ed93187dbdd23cd267a9812f8a592",
-          "lastSyncedAt": "2026-11-15T03:46:23.219Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -614,16 +614,16 @@
       "problemName": "3875-construct-uniform-parity-array-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
-      "folderPath": "LeetCode-Solutions/3875-construct-uniform-parity-array-i/",
-      "readmePath": "LeetCode-Solutions/3875-construct-uniform-parity-array-i/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3875-construct-uniform-parity-array-i/",
+      "readmePath": "LeetCode-Solutions/Easy/3875-construct-uniform-parity-array-i/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3875-construct-uniform-parity-array-i.py",
-          "path": "LeetCode-Solutions/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
+          "path": "LeetCode-Solutions/Easy/3875-construct-uniform-parity-array-i/Python/3875-construct-uniform-parity-array-i.py",
           "sha": "925d02eb778ab14a3ab83fdc1e57340bde33b89f",
-          "lastSyncedAt": "2026-11-15T03:46:48.533Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -634,16 +634,16 @@
       "problemName": "3903-smallest-stable-index-i",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
-      "folderPath": "LeetCode-Solutions/3903-smallest-stable-index-i/",
-      "readmePath": "LeetCode-Solutions/3903-smallest-stable-index-i/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3903-smallest-stable-index-i/",
+      "readmePath": "LeetCode-Solutions/Easy/3903-smallest-stable-index-i/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3903-smallest-stable-index-i.py",
-          "path": "LeetCode-Solutions/3903-smallest-stable-index-i/3903-smallest-stable-index-i.py",
+          "path": "LeetCode-Solutions/Easy/3903-smallest-stable-index-i/Python/3903-smallest-stable-index-i.py",
           "sha": "c16cb454eceebaa58fac13433cf275ec93573a5e",
-          "lastSyncedAt": "2026-11-15T03:46:36.118Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -654,16 +654,16 @@
       "problemName": "3940-limit-occurrences-in-sorted-array",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/limit-occurrences-in-sorted-array/",
-      "folderPath": "LeetCode-Solutions/3940-limit-occurrences-in-sorted-array/",
-      "readmePath": "LeetCode-Solutions/3940-limit-occurrences-in-sorted-array/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/3940-limit-occurrences-in-sorted-array/",
+      "readmePath": "LeetCode-Solutions/Easy/3940-limit-occurrences-in-sorted-array/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "3940-limit-occurrences-in-sorted-array.py",
-          "path": "LeetCode-Solutions/3940-limit-occurrences-in-sorted-array/3940-limit-occurrences-in-sorted-array.py",
+          "path": "LeetCode-Solutions/Easy/3940-limit-occurrences-in-sorted-array/Python/3940-limit-occurrences-in-sorted-array.py",
           "sha": "46f1c6ea852e72a963e15362d49fe3ca5f26c50e",
-          "lastSyncedAt": "2026-11-15T03:52:07.485Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -674,16 +674,16 @@
       "problemName": "4014-minimum-total-price-after-applying-discounts",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/minimum-total-price-after-applying-discounts/",
-      "folderPath": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/",
-      "readmePath": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/README.md",
+      "folderPath": "LeetCode-Solutions/Medium/4014-minimum-total-price-after-applying-discounts/",
+      "readmePath": "LeetCode-Solutions/Medium/4014-minimum-total-price-after-applying-discounts/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "4014-minimum-total-price-after-applying-discounts.py",
-          "path": "LeetCode-Solutions/4014-minimum-total-price-after-applying-discounts/4014-minimum-total-price-after-applying-discounts.py",
+          "path": "LeetCode-Solutions/Medium/4014-minimum-total-price-after-applying-discounts/Python/4014-minimum-total-price-after-applying-discounts.py",
           "sha": "ef7f2822088b26dab8e34e995289626271756ab5",
-          "lastSyncedAt": "2026-11-15T03:47:01.317Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -694,16 +694,16 @@
       "problemName": "4015-weighted-sum-of-a-tree",
       "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/weighted-sum-of-a-tree/",
-      "folderPath": "LeetCode-Solutions/4015-weighted-sum-of-a-tree/",
-      "readmePath": "LeetCode-Solutions/4015-weighted-sum-of-a-tree/README.md",
+      "folderPath": "LeetCode-Solutions/Medium/4015-weighted-sum-of-a-tree/",
+      "readmePath": "LeetCode-Solutions/Medium/4015-weighted-sum-of-a-tree/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "4015-weighted-sum-of-a-tree.py",
-          "path": "LeetCode-Solutions/4015-weighted-sum-of-a-tree/4015-weighted-sum-of-a-tree.py",
+          "path": "LeetCode-Solutions/Medium/4015-weighted-sum-of-a-tree/Python/4015-weighted-sum-of-a-tree.py",
           "sha": "8170b0bbddb05f6e27c41d6331b8a96ae97a6f98",
-          "lastSyncedAt": "2026-11-15T03:46:52.746Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }

@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-15T03:49:24.790Z",
+  "updatedAt": "2026-11-15T03:56:09.653Z",
   "problems": [
     {
       "frontendId": "21",
@@ -14,16 +14,16 @@
       "problemName": "0021-merge-two-sorted-lists",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
-      "folderPath": "LeetCode-Solutions/0021-merge-two-sorted-lists/",
-      "readmePath": "LeetCode-Solutions/0021-merge-two-sorted-lists/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0021-merge-two-sorted-lists/",
+      "readmePath": "LeetCode-Solutions/Easy/0021-merge-two-sorted-lists/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0021-merge-two-sorted-lists.py",
-          "path": "LeetCode-Solutions/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
+          "path": "LeetCode-Solutions/Easy/0021-merge-two-sorted-lists/Python/0021-merge-two-sorted-lists.py",
           "sha": "4567e1cce9f9ca2c2ff8b41bdd6ec60918b2f2da",
-          "lastSyncedAt": "2026-11-15T03:47:28.967Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -34,16 +34,16 @@
       "problemName": "0231-power-of-two",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/power-of-two/",
-      "folderPath": "LeetCode-Solutions/0231-power-of-two/",
-      "readmePath": "LeetCode-Solutions/0231-power-of-two/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0231-power-of-two/",
+      "readmePath": "LeetCode-Solutions/Easy/0231-power-of-two/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0231-power-of-two.py",
-          "path": "LeetCode-Solutions/0231-power-of-two/0231-power-of-two.py",
+          "path": "LeetCode-Solutions/Easy/0231-power-of-two/Python/0231-power-of-two.py",
           "sha": "cf7e7ac6c0e178a5bc3890d9a1d8b708f5ddc611",
-          "lastSyncedAt": "2026-11-15T03:49:24.790Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -54,16 +54,16 @@
       "problemName": "0326-power-of-three",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
-      "folderPath": "LeetCode-Solutions/0326-power-of-three/",
-      "readmePath": "LeetCode-Solutions/0326-power-of-three/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0326-power-of-three/",
+      "readmePath": "LeetCode-Solutions/Easy/0326-power-of-three/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0326-power-of-three.py",
-          "path": "LeetCode-Solutions/0326-power-of-three/0326-power-of-three.py",
+          "path": "LeetCode-Solutions/Easy/0326-power-of-three/Python/0326-power-of-three.py",
           "sha": "b183a22d5e27783802e8fdb79142426187e3b38f",
-          "lastSyncedAt": "2026-11-15T03:49:06.461Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     },
@@ -74,16 +74,16 @@
       "problemName": "0342-power-of-four",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
-      "folderPath": "LeetCode-Solutions/0342-power-of-four/",
-      "readmePath": "LeetCode-Solutions/0342-power-of-four/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0342-power-of-four/",
+      "readmePath": "LeetCode-Solutions/Easy/0342-power-of-four/README.md",
       "solutions": [
         {
           "language": "Python",
           "extension": ".py",
           "filename": "0342-power-of-four.py",
-          "path": "LeetCode-Solutions/0342-power-of-four/0342-power-of-four.py",
+          "path": "LeetCode-Solutions/Easy/0342-power-of-four/Python/0342-power-of-four.py",
           "sha": "fe20afb960964981fa12e505c76ab60783cf94b7",
-          "lastSyncedAt": "2026-11-15T03:48:57.521Z"
+          "lastSyncedAt": "2026-11-15T03:56:09.653Z"
         }
       ]
     }
