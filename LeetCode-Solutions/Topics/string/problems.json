@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:23:25.950Z",
+  "updatedAt": "2026-11-15T03:24:00.433Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "LeetCode-Solutions/0242-valid-anagram/",
+      "readmePath": "LeetCode-Solutions/0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0242-valid-anagram.py",
+          "path": "LeetCode-Solutions/0242-valid-anagram/0242-valid-anagram.py",
+          "sha": "b939cd894ee09680964cf58299227468329144f0",
+          "lastSyncedAt": "2026-11-15T03:24:00.433Z"
         }
       ]
     },
