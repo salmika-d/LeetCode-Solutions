@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T03:23:45.348Z",
+  "updatedAt": "2026-11-15T03:23:53.055Z",
   "problems": [
     {
       "frontendId": "231",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/0231-power-of-two/0231-power-of-two.py",
           "sha": "cf7e7ac6c0e178a5bc3890d9a1d8b708f5ddc611",
           "lastSyncedAt": "2026-11-15T03:23:45.348Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "338",
+      "title": "Counting Bits",
+      "slug": "counting-bits",
+      "problemName": "0338-counting-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-bits/",
+      "folderPath": "LeetCode-Solutions/0338-counting-bits/",
+      "readmePath": "LeetCode-Solutions/0338-counting-bits/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0338-counting-bits.py",
+          "path": "LeetCode-Solutions/0338-counting-bits/0338-counting-bits.py",
+          "sha": "4aa8fe30732b21729c527cf1fb239f3e40466237",
+          "lastSyncedAt": "2026-11-15T03:23:53.055Z"
         }
       ]
     },
