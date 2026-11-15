@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:24:57.941Z",
+  "updatedAt": "2026-11-15T03:25:30.058Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "LeetCode-Solutions/0169-majority-element/",
+      "readmePath": "LeetCode-Solutions/0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0169-majority-element.py",
+          "path": "LeetCode-Solutions/0169-majority-element/0169-majority-element.py",
+          "sha": "2e6277ef48b4b75432340e696f3f525015d62bb5",
+          "lastSyncedAt": "2026-11-15T03:25:30.058Z"
         }
       ]
     },
