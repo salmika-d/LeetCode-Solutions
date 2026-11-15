@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:29:54.620Z",
+  "updatedAt": "2026-11-15T03:30:20.400Z",
   "problems": [
     {
       "frontendId": "66",
@@ -164,6 +164,26 @@
           "path": "LeetCode-Solutions/0258-add-digits/0258-add-digits.py",
           "sha": "c4469ea7822df065b8eb087fa5c0f3523f0de88b",
           "lastSyncedAt": "2026-11-15T03:23:33.302Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "LeetCode-Solutions/0268-missing-number/",
+      "readmePath": "LeetCode-Solutions/0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0268-missing-number.py",
+          "path": "LeetCode-Solutions/0268-missing-number/0268-missing-number.py",
+          "sha": "f5b7822532a528087be476dfdb25d9c6f0f6d89c",
+          "lastSyncedAt": "2026-11-15T03:30:20.400Z"
         }
       ]
     },
