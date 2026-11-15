@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T03:20:52.649Z",
+  "updatedAt": "2026-11-15T03:21:39.017Z",
   "problems": [
+    {
+      "frontendId": "461",
+      "title": "Hamming Distance",
+      "slug": "hamming-distance",
+      "problemName": "0461-hamming-distance",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/hamming-distance/",
+      "folderPath": "LeetCode-Solutions/0461-hamming-distance/",
+      "readmePath": "LeetCode-Solutions/0461-hamming-distance/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0461-hamming-distance.py",
+          "path": "LeetCode-Solutions/0461-hamming-distance/0461-hamming-distance.py",
+          "sha": "bc02cecd697c8320a7882eb92968990f6c094e3f",
+          "lastSyncedAt": "2026-11-15T03:21:39.017Z"
+        }
+      ]
+    },
     {
       "frontendId": "476",
       "title": "Number Complement",
