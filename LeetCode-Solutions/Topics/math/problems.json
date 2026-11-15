@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:19:34.268Z",
+  "updatedAt": "2026-11-15T03:19:43.149Z",
   "problems": [
     {
       "frontendId": "836",
@@ -64,6 +64,26 @@
           "path": "LeetCode-Solutions/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "5c65fe8dd68ed93187dbdd23cd267a9812f8a592",
           "lastSyncedAt": "2026-11-15T03:19:26.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3870",
+      "title": "Count Commas in Range",
+      "slug": "count-commas-in-range",
+      "problemName": "3870-count-commas-in-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-commas-in-range/",
+      "folderPath": "LeetCode-Solutions/3870-count-commas-in-range/",
+      "readmePath": "LeetCode-Solutions/3870-count-commas-in-range/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3870-count-commas-in-range.java",
+          "path": "LeetCode-Solutions/3870-count-commas-in-range/3870-count-commas-in-range.java",
+          "sha": "7db90339f101e5c0d72bf6739f0c484e5f429a39",
+          "lastSyncedAt": "2026-11-15T03:19:43.149Z"
         }
       ]
     },
