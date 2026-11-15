@@ -5,8 +5,28 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-15T03:20:38.802Z",
+  "updatedAt": "2026-11-15T03:21:08.505Z",
   "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "LeetCode-Solutions/0021-merge-two-sorted-lists/",
+      "readmePath": "LeetCode-Solutions/0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0021-merge-two-sorted-lists.py",
+          "path": "LeetCode-Solutions/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
+          "sha": "4567e1cce9f9ca2c2ff8b41bdd6ec60918b2f2da",
+          "lastSyncedAt": "2026-11-15T03:21:08.505Z"
+        }
+      ]
+    },
     {
       "frontendId": "83",
       "title": "Remove Duplicates from Sorted List",
