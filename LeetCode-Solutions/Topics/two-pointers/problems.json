@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-15T03:53:31.351Z",
+  "updatedAt": "2026-11-15T03:53:47.839Z",
   "problems": [
     {
       "frontendId": "26",
@@ -34,8 +34,8 @@
       "problemName": "0027-remove-element",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
-      "folderPath": "LeetCode-Solutions/0027-remove-element/",
-      "readmePath": "LeetCode-Solutions/0027-remove-element/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0027-remove-element/",
+      "readmePath": "LeetCode-Solutions/Easy/0027-remove-element/README.md",
       "solutions": [
         {
           "language": "Python",
@@ -43,7 +43,7 @@
           "filename": "0027-remove-element.py",
           "path": "LeetCode-Solutions/0027-remove-element/0027-remove-element.py",
           "sha": "06690dc0d05c693148c04a1893920f501fd81c76",
-          "lastSyncedAt": "2026-11-15T03:31:03.397Z"
+          "lastSyncedAt": "2026-11-15T03:53:47.839Z"
         }
       ]
     },
