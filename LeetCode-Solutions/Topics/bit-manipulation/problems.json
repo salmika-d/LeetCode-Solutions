@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T03:53:16.279Z",
+  "updatedAt": "2026-11-15T03:54:21.323Z",
   "problems": [
     {
       "frontendId": "67",
@@ -234,8 +234,8 @@
       "problemName": "1009-complement-of-base-10-integer",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/complement-of-base-10-integer/",
-      "folderPath": "LeetCode-Solutions/1009-complement-of-base-10-integer/",
-      "readmePath": "LeetCode-Solutions/1009-complement-of-base-10-integer/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/1009-complement-of-base-10-integer/",
+      "readmePath": "LeetCode-Solutions/Easy/1009-complement-of-base-10-integer/README.md",
       "solutions": [
         {
           "language": "Python",
@@ -243,7 +243,7 @@
           "filename": "1009-complement-of-base-10-integer.py",
           "path": "LeetCode-Solutions/1009-complement-of-base-10-integer/1009-complement-of-base-10-integer.py",
           "sha": "a1a39bb870a9909e1b47b5389a9a7269878cc55a",
-          "lastSyncedAt": "2026-11-15T03:31:53.422Z"
+          "lastSyncedAt": "2026-11-15T03:54:21.323Z"
         }
       ]
     },
