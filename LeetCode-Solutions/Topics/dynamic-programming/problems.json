@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T03:35:19.164Z",
+  "updatedAt": "2026-11-15T03:46:41.239Z",
   "problems": [
     {
       "frontendId": "70",
@@ -123,7 +123,7 @@
           "filename": "0392-is-subsequence.py",
           "path": "LeetCode-Solutions/0392-is-subsequence/0392-is-subsequence.py",
           "sha": "15c96a73ceefbc2c2cb468b362eb87c4a08fc5d7",
-          "lastSyncedAt": "2026-11-15T03:35:19.164Z"
+          "lastSyncedAt": "2026-11-15T03:46:41.239Z"
         }
       ]
     },
