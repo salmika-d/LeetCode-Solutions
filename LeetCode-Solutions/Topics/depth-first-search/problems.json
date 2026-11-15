@@ -5,7 +5,7 @@
     "name": "Depth-First Search",
     "tagId": "21"
   },
-  "updatedAt": "2026-11-15T03:17:37.294Z",
+  "updatedAt": "2026-11-15T03:20:15.869Z",
   "problems": [
     {
       "frontendId": "1267",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/1267-count-servers-that-communicate/1267-count-servers-that-communicate.py",
           "sha": "90e9183f3fa0122813028dcff72df98312a159b6",
           "lastSyncedAt": "2026-11-15T03:17:37.294Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "4015",
+      "title": "Weighted Sum of a Tree",
+      "slug": "weighted-sum-of-a-tree",
+      "problemName": "4015-weighted-sum-of-a-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-sum-of-a-tree/",
+      "folderPath": "LeetCode-Solutions/4015-weighted-sum-of-a-tree/",
+      "readmePath": "LeetCode-Solutions/4015-weighted-sum-of-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "4015-weighted-sum-of-a-tree.py",
+          "path": "LeetCode-Solutions/4015-weighted-sum-of-a-tree/4015-weighted-sum-of-a-tree.py",
+          "sha": "8170b0bbddb05f6e27c41d6331b8a96ae97a6f98",
+          "lastSyncedAt": "2026-11-15T03:20:15.869Z"
         }
       ]
     }
