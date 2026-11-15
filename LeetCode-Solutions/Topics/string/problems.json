@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:24:00.433Z",
+  "updatedAt": "2026-11-15T03:24:38.410Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "171",
+      "title": "Excel Sheet Column Number",
+      "slug": "excel-sheet-column-number",
+      "problemName": "0171-excel-sheet-column-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/excel-sheet-column-number/",
+      "folderPath": "LeetCode-Solutions/0171-excel-sheet-column-number/",
+      "readmePath": "LeetCode-Solutions/0171-excel-sheet-column-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0171-excel-sheet-column-number.py",
+          "path": "LeetCode-Solutions/0171-excel-sheet-column-number/0171-excel-sheet-column-number.py",
+          "sha": "d0bb0f543c5382993047178c58a72620afec43d3",
+          "lastSyncedAt": "2026-11-15T03:24:38.410Z"
         }
       ]
     },
