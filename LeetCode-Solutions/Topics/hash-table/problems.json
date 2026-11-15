@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T03:22:14.624Z",
+  "updatedAt": "2026-11-15T03:22:27.760Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "LeetCode-Solutions/0383-ransom-note/",
+      "readmePath": "LeetCode-Solutions/0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0383-ransom-note.py",
+          "path": "LeetCode-Solutions/0383-ransom-note/0383-ransom-note.py",
+          "sha": "b8a55be97449f03b024c1e4af8d11fde1e45676e",
+          "lastSyncedAt": "2026-11-15T03:22:27.760Z"
         }
       ]
     },
