@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:29:14.824Z",
+  "updatedAt": "2026-11-15T03:29:54.620Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "LeetCode-Solutions/0066-plus-one/",
+      "readmePath": "LeetCode-Solutions/0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0066-plus-one.py",
+          "path": "LeetCode-Solutions/0066-plus-one/0066-plus-one.py",
+          "sha": "41364d2395aebc6e22f340f05925891055ad19c8",
+          "lastSyncedAt": "2026-11-15T03:29:54.620Z"
         }
       ]
     },
