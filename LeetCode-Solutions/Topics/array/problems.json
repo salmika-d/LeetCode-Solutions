@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:19:26.335Z",
+  "updatedAt": "2026-11-15T03:19:47.800Z",
   "problems": [
     {
       "frontendId": "1",
@@ -184,6 +184,26 @@
           "path": "LeetCode-Solutions/3550-smallest-index-with-digit-sum-equal-to-index/3550-smallest-index-with-digit-sum-equal-to-index.java",
           "sha": "5c65fe8dd68ed93187dbdd23cd267a9812f8a592",
           "lastSyncedAt": "2026-11-15T03:19:26.335Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3903",
+      "title": "Smallest Stable Index I",
+      "slug": "smallest-stable-index-i",
+      "problemName": "3903-smallest-stable-index-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-stable-index-i/",
+      "folderPath": "LeetCode-Solutions/3903-smallest-stable-index-i/",
+      "readmePath": "LeetCode-Solutions/3903-smallest-stable-index-i/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3903-smallest-stable-index-i.py",
+          "path": "LeetCode-Solutions/3903-smallest-stable-index-i/3903-smallest-stable-index-i.py",
+          "sha": "c16cb454eceebaa58fac13433cf275ec93573a5e",
+          "lastSyncedAt": "2026-11-15T03:19:47.800Z"
         }
       ]
     }
