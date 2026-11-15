@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation",
+    "tagId": "19"
+  },
+  "updatedAt": "2026-11-15T03:20:52.649Z",
+  "problems": [
+    {
+      "frontendId": "476",
+      "title": "Number Complement",
+      "slug": "number-complement",
+      "problemName": "0476-number-complement",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-complement/",
+      "folderPath": "LeetCode-Solutions/0476-number-complement/",
+      "readmePath": "LeetCode-Solutions/0476-number-complement/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0476-number-complement.py",
+          "path": "LeetCode-Solutions/0476-number-complement/0476-number-complement.py",
+          "sha": "16c637a4e005f5a9753d5fb1118b85c4435b98af",
+          "lastSyncedAt": "2026-11-15T03:20:52.649Z"
+        }
+      ]
+    }
+  ]
+}
