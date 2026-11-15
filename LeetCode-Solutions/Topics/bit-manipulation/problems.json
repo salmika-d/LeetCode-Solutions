@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-15T03:26:50.423Z",
+  "updatedAt": "2026-11-15T03:29:40.481Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "LeetCode-Solutions/0067-add-binary/",
+      "readmePath": "LeetCode-Solutions/0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0067-add-binary.py",
+          "path": "LeetCode-Solutions/0067-add-binary/0067-add-binary.py",
+          "sha": "266e41d5bf88b7e11e0137143112e4a09fd29e37",
+          "lastSyncedAt": "2026-11-15T03:29:40.481Z"
+        }
+      ]
+    },
     {
       "frontendId": "136",
       "title": "Single Number",
