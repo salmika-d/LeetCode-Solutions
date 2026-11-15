@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-15T03:19:43.149Z",
+  "updatedAt": "2026-11-15T03:20:07.466Z",
   "problems": [
     {
       "frontendId": "836",
@@ -84,6 +84,26 @@
           "path": "LeetCode-Solutions/3870-count-commas-in-range/3870-count-commas-in-range.java",
           "sha": "7db90339f101e5c0d72bf6739f0c484e5f429a39",
           "lastSyncedAt": "2026-11-15T03:19:43.149Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3875",
+      "title": "Construct Uniform Parity Array I",
+      "slug": "construct-uniform-parity-array-i",
+      "problemName": "3875-construct-uniform-parity-array-i",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-uniform-parity-array-i/",
+      "folderPath": "LeetCode-Solutions/3875-construct-uniform-parity-array-i/",
+      "readmePath": "LeetCode-Solutions/3875-construct-uniform-parity-array-i/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "3875-construct-uniform-parity-array-i.py",
+          "path": "LeetCode-Solutions/3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.py",
+          "sha": "925d02eb778ab14a3ab83fdc1e57340bde33b89f",
+          "lastSyncedAt": "2026-11-15T03:20:07.466Z"
         }
       ]
     },
