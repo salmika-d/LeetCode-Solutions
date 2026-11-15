@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-15T03:51:22.344Z",
+  "updatedAt": "2026-11-15T03:51:55.808Z",
   "problems": [
     {
       "frontendId": "70",
@@ -43,7 +43,7 @@
           "filename": "0118-pascals-triangle.py",
           "path": "LeetCode-Solutions/0118-pascals-triangle/0118-pascals-triangle.py",
           "sha": "9cf44578c1ba9c0d1eda13be3d53084adc702144",
-          "lastSyncedAt": "2026-11-15T03:28:19.106Z"
+          "lastSyncedAt": "2026-11-15T03:51:55.808Z"
         }
       ]
     },
