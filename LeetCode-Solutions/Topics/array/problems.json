@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:26:06.838Z",
+  "updatedAt": "2026-11-15T03:26:15.143Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "LeetCode-Solutions/0119-pascals-triangle-ii/0119-pascals-triangle-ii.py",
           "sha": "bcf4cea22c6cc0bb301b0fc721b456a9f72b143a",
           "lastSyncedAt": "2026-11-15T03:26:06.838Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "136",
+      "title": "Single Number",
+      "slug": "single-number",
+      "problemName": "0136-single-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/single-number/",
+      "folderPath": "LeetCode-Solutions/0136-single-number/",
+      "readmePath": "LeetCode-Solutions/0136-single-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0136-single-number.py",
+          "path": "LeetCode-Solutions/0136-single-number/0136-single-number.py",
+          "sha": "81c0314fa91f97e5fef96a33efd258840de14f67",
+          "lastSyncedAt": "2026-11-15T03:26:15.143Z"
         }
       ]
     },
