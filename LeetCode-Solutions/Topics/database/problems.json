@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-15T03:24:31.300Z",
+  "updatedAt": "2026-11-15T03:24:52.552Z",
   "problems": [
     {
       "frontendId": "181",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
           "sha": "d69f19ad472c84af03e03548d7fee960581634c0",
           "lastSyncedAt": "2026-11-15T03:24:31.300Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "182",
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "problemName": "0182-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-emails/",
+      "folderPath": "LeetCode-Solutions/0182-duplicate-emails/",
+      "readmePath": "LeetCode-Solutions/0182-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0182-duplicate-emails.sql",
+          "path": "LeetCode-Solutions/0182-duplicate-emails/0182-duplicate-emails.sql",
+          "sha": "d4d6cc506ba7bbbf9f2a2f4381d649b5a6ccb6ff",
+          "lastSyncedAt": "2026-11-15T03:24:52.552Z"
         }
       ]
     }
