@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:19:16.369Z",
+  "updatedAt": "2026-11-15T03:19:56.126Z",
   "problems": [
     {
       "frontendId": "20",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "392",
+      "title": "Is Subsequence",
+      "slug": "is-subsequence",
+      "problemName": "0392-is-subsequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/is-subsequence/",
+      "folderPath": "LeetCode-Solutions/0392-is-subsequence/",
+      "readmePath": "LeetCode-Solutions/0392-is-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0392-is-subsequence.py",
+          "path": "LeetCode-Solutions/0392-is-subsequence/0392-is-subsequence.py",
+          "sha": "15c96a73ceefbc2c2cb468b362eb87c4a08fc5d7",
+          "lastSyncedAt": "2026-11-15T03:19:56.126Z"
         }
       ]
     },
