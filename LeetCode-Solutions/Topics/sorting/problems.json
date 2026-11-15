@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-15T03:18:20.510Z",
+  "updatedAt": "2026-11-15T03:18:28.941Z",
   "problems": [
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "LeetCode-Solutions/0049-group-anagrams/",
+      "readmePath": "LeetCode-Solutions/0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
+          "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
     {
       "frontendId": "1385",
       "title": "Find the Distance Value Between Two Arrays",
