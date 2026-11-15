@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-15T03:30:03.861Z",
+  "updatedAt": "2026-11-15T03:30:09.895Z",
   "problems": [
     {
       "frontendId": "20",
@@ -384,6 +384,26 @@
           "path": "LeetCode-Solutions/0500-keyboard-row/0500-keyboard-row.py",
           "sha": "0c27a33b0922a98c9c1cb3885c077a83a46c2a07",
           "lastSyncedAt": "2026-11-15T03:18:59.644Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "796",
+      "title": "Rotate String",
+      "slug": "rotate-string",
+      "problemName": "0796-rotate-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+      "folderPath": "LeetCode-Solutions/0796-rotate-string/",
+      "readmePath": "LeetCode-Solutions/0796-rotate-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0796-rotate-string.py",
+          "path": "LeetCode-Solutions/0796-rotate-string/0796-rotate-string.py",
+          "sha": "665b35ab2961f66d716c151a7a586aac44a9b849",
+          "lastSyncedAt": "2026-11-15T03:30:09.895Z"
         }
       ]
     },
