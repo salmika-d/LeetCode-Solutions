@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:18:20.510Z",
+  "updatedAt": "2026-11-15T03:18:28.941Z",
   "problems": [
     {
       "frontendId": "1",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/0001-two-sum/0001-two-sum.py",
           "sha": "7019b34d5d361283593e0e665069ed8ff322e625",
           "lastSyncedAt": "2026-11-15T03:17:10.426Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "LeetCode-Solutions/0049-group-anagrams/",
+      "readmePath": "LeetCode-Solutions/0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0049-group-anagrams.py",
+          "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
+          "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
+          "lastSyncedAt": "2026-11-15T03:18:28.941Z"
         }
       ]
     },
