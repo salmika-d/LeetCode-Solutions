@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:25:30.058Z",
+  "updatedAt": "2026-11-15T03:26:06.838Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "LeetCode-Solutions/0049-group-anagrams/0049-group-anagrams.py",
           "sha": "bc08c209a458276e9559c63b4f4e2bbe6f0a4579",
           "lastSyncedAt": "2026-11-15T03:18:28.941Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "119",
+      "title": "Pascal's Triangle II",
+      "slug": "pascals-triangle-ii",
+      "problemName": "0119-pascals-triangle-ii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/pascals-triangle-ii/",
+      "folderPath": "LeetCode-Solutions/0119-pascals-triangle-ii/",
+      "readmePath": "LeetCode-Solutions/0119-pascals-triangle-ii/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0119-pascals-triangle-ii.py",
+          "path": "LeetCode-Solutions/0119-pascals-triangle-ii/0119-pascals-triangle-ii.py",
+          "sha": "bcf4cea22c6cc0bb301b0fc721b456a9f72b143a",
+          "lastSyncedAt": "2026-11-15T03:26:06.838Z"
         }
       ]
     },
