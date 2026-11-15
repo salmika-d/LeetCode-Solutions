@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-15T03:53:16.279Z",
+  "updatedAt": "2026-11-15T03:53:40.095Z",
   "problems": [
     {
       "frontendId": "35",
@@ -14,8 +14,8 @@
       "problemName": "0035-search-insert-position",
       "difficulty": "Easy",
       "leetcodeUrl": "https://leetcode.com/problems/search-insert-position/",
-      "folderPath": "LeetCode-Solutions/0035-search-insert-position/",
-      "readmePath": "LeetCode-Solutions/0035-search-insert-position/README.md",
+      "folderPath": "LeetCode-Solutions/Easy/0035-search-insert-position/",
+      "readmePath": "LeetCode-Solutions/Easy/0035-search-insert-position/README.md",
       "solutions": [
         {
           "language": "Python",
@@ -23,7 +23,7 @@
           "filename": "0035-search-insert-position.py",
           "path": "LeetCode-Solutions/0035-search-insert-position/0035-search-insert-position.py",
           "sha": "cea1addbde6a185a41c89efe422338034ed04f52",
-          "lastSyncedAt": "2026-11-15T03:30:51.071Z"
+          "lastSyncedAt": "2026-11-15T03:53:40.095Z"
         }
       ]
     },
