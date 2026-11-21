@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-15T03:56:09.653Z",
+  "updatedAt": "2026-11-21T01:13:48.282Z",
   "problems": [
     {
       "frontendId": "1",
@@ -204,6 +204,26 @@
           "path": "LeetCode-Solutions/Easy/0290-word-pattern/Python/0290-word-pattern.py",
           "sha": "bda6eb6453c7dfd68bdc18ab1d361f323dc691e1",
           "lastSyncedAt": "2026-11-15T03:56:09.653Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "LeetCode-Solutions/Medium/0347-top-k-frequent-elements/",
+      "readmePath": "LeetCode-Solutions/Medium/0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0347-top-k-frequent-elements.py",
+          "path": "LeetCode-Solutions/Medium/0347-top-k-frequent-elements/Python/0347-top-k-frequent-elements.py",
+          "sha": "993eb263d3411f212634796ff37688ba55061761",
+          "lastSyncedAt": "2026-11-21T01:13:48.282Z"
         }
       ]
     },
