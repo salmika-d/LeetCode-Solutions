@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-15T03:56:09.653Z",
+  "updatedAt": "2026-11-21T01:13:48.282Z",
   "problems": [
     {
       "frontendId": "169",
@@ -24,6 +24,26 @@
           "path": "LeetCode-Solutions/Easy/0169-majority-element/Python/0169-majority-element.py",
           "sha": "2e6277ef48b4b75432340e696f3f525015d62bb5",
           "lastSyncedAt": "2026-11-15T03:56:09.653Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "LeetCode-Solutions/Medium/0347-top-k-frequent-elements/",
+      "readmePath": "LeetCode-Solutions/Medium/0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0347-top-k-frequent-elements.py",
+          "path": "LeetCode-Solutions/Medium/0347-top-k-frequent-elements/Python/0347-top-k-frequent-elements.py",
+          "sha": "993eb263d3411f212634796ff37688ba55061761",
+          "lastSyncedAt": "2026-11-21T01:13:48.282Z"
         }
       ]
     },
