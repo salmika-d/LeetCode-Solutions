@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 87 | 82 | 5 | 0 |
+| 88 | 82 | 6 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 10 days | 74 |
+| 2 days | 10 days | 75 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-09 | 1 |
 | 2026-09-14 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-28 | 1 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-09 | 1 |
 | 2026-11-15 | 1 |
 | 2026-11-20 | 1 |
+| 2026-11-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 35 | 40% |
-| String | 31 | 36% |
+| Array | 36 | 41% |
+| String | 31 | 35% |
+| Hash Table | 22 | 25% |
 | Math | 22 | 25% |
-| Hash Table | 21 | 24% |
 | Two Pointers | 15 | 17% |
 | Bit Manipulation | 13 | 15% |
-| Sorting | 12 | 14% |
+| Sorting | 13 | 15% |
 | Dynamic Programming | 7 | 8% |
 | Simulation | 7 | 8% |
 | Binary Search | 6 | 7% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 35 |
+| [Array](Topics/array/) | 36 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 13 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -57,18 +57,20 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
-| [Counting](Topics/counting/) | 5 |
+| [Bucket Sort](Topics/bucket-sort/) | 1 |
+| [Counting](Topics/counting/) | 6 |
 | [Database](Topics/database/) | 3 |
 | [Depth-First Search](Topics/depth-first-search/) | 2 |
 | [Design](Topics/design/) | 1 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 4 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 7 |
 | [Enumeration](Topics/enumeration/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Game Theory](Topics/game-theory/) | 1 |
 | [Geometry](Topics/geometry/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 21 |
+| [Hash Table](Topics/hash-table/) | 22 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Impartial Game](Topics/impartial-game/) | 1 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 2 |
@@ -81,9 +83,10 @@ Contains topicwise list of solved problems.
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Queue](Topics/queue/) | 2 |
+| [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 4 |
 | [Simulation](Topics/simulation/) | 7 |
-| [Sorting](Topics/sorting/) | 12 |
+| [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 31 |
 | [String Matching](Topics/string-matching/) | 2 |
