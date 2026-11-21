@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-15T03:56:09.653Z",
+  "updatedAt": "2026-11-21T01:13:48.282Z",
   "problems": [
     {
       "frontendId": "1",
@@ -344,6 +344,26 @@
           "path": "LeetCode-Solutions/Easy/0283-move-zeroes/Python/0283-move-zeroes.py",
           "sha": "d544a2c75b5e5495f468a3a422b7d8c2a5ba2fb4",
           "lastSyncedAt": "2026-11-15T03:56:09.653Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "problemName": "0347-top-k-frequent-elements",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "folderPath": "LeetCode-Solutions/Medium/0347-top-k-frequent-elements/",
+      "readmePath": "LeetCode-Solutions/Medium/0347-top-k-frequent-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0347-top-k-frequent-elements.py",
+          "path": "LeetCode-Solutions/Medium/0347-top-k-frequent-elements/Python/0347-top-k-frequent-elements.py",
+          "sha": "993eb263d3411f212634796ff37688ba55061761",
+          "lastSyncedAt": "2026-11-21T01:13:48.282Z"
         }
       ]
     },
