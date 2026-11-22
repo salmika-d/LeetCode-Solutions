@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T01:59:53.759Z",
+  "updatedAt": "2026-11-22T02:03:54.866Z",
   "problems": [
     {
       "frontendId": "13",
@@ -517,6 +517,14 @@
       "folderPath": "LeetCode-Solutions/Easy/2124-check-if-all-as-appears-before-all-bs/",
       "readmePath": "LeetCode-Solutions/Easy/2124-check-if-all-as-appears-before-all-bs/README.md",
       "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.java",
+          "path": "LeetCode-Solutions/Easy/2124-check-if-all-as-appears-before-all-bs/Java/2124-check-if-all-as-appears-before-all-bs.java",
+          "sha": "0279f809ddedfe759cbc2a9cdfc37141bc2806a9",
+          "lastSyncedAt": "2026-11-22T02:03:54.866Z"
+        },
         {
           "language": "Python",
           "extension": ".py",
