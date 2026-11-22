@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 88 | 82 | 6 | 0 |
+| 89 | 83 | 6 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 10 days | 75 |
+| 3 days | 10 days | 76 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-14 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 1 |
@@ -29,13 +28,14 @@ Contains topicwise list of solved problems.
 | 2026-11-15 | 1 |
 | 2026-11-20 | 1 |
 | 2026-11-21 | 1 |
+| 2026-11-22 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 36 | 41% |
-| String | 31 | 35% |
+| Array | 36 | 40% |
+| String | 32 | 36% |
 | Hash Table | 22 | 25% |
 | Math | 22 | 25% |
 | Two Pointers | 15 | 17% |
@@ -88,7 +88,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 7 |
 | [Sorting](Topics/sorting/) | 13 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 31 |
+| [String](Topics/string/) | 32 |
 | [String Matching](Topics/string-matching/) | 2 |
 | [Tree](Topics/tree/) | 1 |
 | [Trie](Topics/trie/) | 1 |
