@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-20T07:04:15.250Z",
+  "updatedAt": "2026-11-22T01:59:53.759Z",
   "problems": [
     {
       "frontendId": "13",
@@ -504,6 +504,26 @@
           "path": "LeetCode-Solutions/Easy/1758-minimum-changes-to-make-alternating-binary-string/Python/1758-minimum-changes-to-make-alternating-binary-string.py",
           "sha": "eb00bbc0ca83ff9171f3a6b2488797fd3d4035a6",
           "lastSyncedAt": "2026-11-15T03:56:09.653Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2124",
+      "title": "Check if All A's Appears Before All B's",
+      "slug": "check-if-all-as-appears-before-all-bs",
+      "problemName": "2124-check-if-all-as-appears-before-all-bs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/",
+      "folderPath": "LeetCode-Solutions/Easy/2124-check-if-all-as-appears-before-all-bs/",
+      "readmePath": "LeetCode-Solutions/Easy/2124-check-if-all-as-appears-before-all-bs/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "2124-check-if-all-as-appears-before-all-bs.py",
+          "path": "LeetCode-Solutions/Easy/2124-check-if-all-as-appears-before-all-bs/Python/2124-check-if-all-as-appears-before-all-bs.py",
+          "sha": "8daad945837a2bc39909edb4134738ab259d2121",
+          "lastSyncedAt": "2026-11-22T01:59:53.759Z"
         }
       ]
     },
